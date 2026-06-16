@@ -22,6 +22,8 @@
   "table.view": "Ver",
   "compat.title": "Modelos relacionados para probar",
   "compat.intro": "No son coincidencias exactas del catálogo principal. Son relaciones documentadas o candidatas útiles para probar con cuidado.",
+  "compat.noticeTitle": "Aviso sobre compatibilidad",
+  "compat.noticeBody": "Los modelos relacionados se basan en agrupaciones del catálogo SmartIR y en relaciones investigadas. Algunos códigos pueden funcionar solo parcialmente. Prueba primero encendido/apagado y funciones básicas antes de asumir compatibilidad completa.",
   "compat.sourceModel": "Código SmartIR:",
   "compat.candidates": "Puede servir para:",
   "compat.tryCodes": "Probar códigos",
