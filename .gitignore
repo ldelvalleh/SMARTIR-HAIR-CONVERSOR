@@ -18,3 +18,13 @@ temp/
 
 # Capturas IR de prueba con datos personales (no subir al repo público)
 _pruebas-locales/
+
+# --- Solo código en el repo público: excluir agentes, memoria y docs internos ---
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+memory.md
+design/
+docs/negocio.md
+docs/investigacion/
+docs/design.md

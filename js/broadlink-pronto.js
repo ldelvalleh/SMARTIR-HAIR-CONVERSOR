@@ -35,19 +35,20 @@ export function broadlinkBase64ToProntoHex(base64) {
 }
 
 function microsecondsToProntoHex(pulsesMicroseconds, carrierHz = 38000) {
-  const freqWord = Math.round(1 / (carrierHz * PRONTO_FREQ_FACTOR));
-  const frequency = 1 / (freqWord * PRONTO_FREQ_FACTOR);
+  const freqWord = Math.round(1_000_000 / (carrierHz * PRONTO_FREQ_FACTOR));
+  const safeFreqWord = freqWord > 0 ? freqWord : 0x006d;
+  const actualCarrierHz = 1_000_000 / (safeFreqWord * PRONTO_FREQ_FACTOR);
   const introPairs = Math.ceil(pulsesMicroseconds.length / 2);
 
   const words = [
     "0000",
-    freqWord.toString(16).toUpperCase().padStart(4, "0"),
+    safeFreqWord.toString(16).toUpperCase().padStart(4, "0"),
     introPairs.toString(16).toUpperCase().padStart(4, "0"),
     "0000",
   ];
 
   for (const micros of pulsesMicroseconds) {
-    const prontoDur = Math.max(1, Math.round(micros * frequency));
+    const prontoDur = Math.max(1, Math.round((micros * actualCarrierHz) / 1_000_000));
     words.push(prontoDur.toString(16).toUpperCase().padStart(4, "0"));
   }
 
