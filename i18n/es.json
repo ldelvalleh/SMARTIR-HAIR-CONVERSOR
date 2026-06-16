@@ -26,6 +26,7 @@
   "compat.candidates": "Puede servir para:",
   "compat.tryCodes": "Probar códigos",
   "compat.warning": "No confirmado. Prueba primero funciones básicas y no lo presentes como compatibilidad completa.",
+  "compat.generatedNote": "Generado automáticamente porque estos modelos aparecen juntos en la misma lista supportedModels de SmartIR.",
   "compat.confidence.confirmed_catalog": "Confirmado por catálogo",
   "compat.confidence.probable_family": "Probable por familia",
   "compat.confidence.try_only": "Solo para probar",
