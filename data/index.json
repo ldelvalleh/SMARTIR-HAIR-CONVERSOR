@@ -1,0 +1,5524 @@
+[
+  {
+    "id": "1020",
+    "type": "fan",
+    "manufacturer": "Acorn",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1020.json",
+    "searchText": "acorn unknown fan"
+  },
+  {
+    "id": "1140",
+    "type": "climate",
+    "manufacturer": "Actron",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1140.json",
+    "searchText": "actron unknown climate"
+  },
+  {
+    "id": "2720",
+    "type": "climate",
+    "manufacturer": "AEG",
+    "supportedModels": [
+      "AXP35U538CW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2720.json",
+    "searchText": "aeg axp35u538cw climate"
+  },
+  {
+    "id": "2000",
+    "type": "climate",
+    "manufacturer": "Aeronik",
+    "supportedModels": [
+      "ASO-12IL",
+      "ASI-12IL"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2000.json",
+    "searchText": "aeronik aso-12il asi-12il climate"
+  },
+  {
+    "id": "2980",
+    "type": "climate",
+    "manufacturer": "Agratto",
+    "supportedModels": [
+      "ECST12FR4-02",
+      "ECST19QFIR4-02"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2980.json",
+    "searchText": "agratto ecst12fr4-02 ecst19qfir4-02 climate"
+  },
+  {
+    "id": "1441",
+    "type": "climate",
+    "manufacturer": "Akai",
+    "supportedModels": [
+      "TEM-26CHSAAK5",
+      "TEM-70CHSAAK5",
+      "TEM-26CHSAKA5",
+      "TEM-35CHSAKA",
+      "TEM-50CHSAKA",
+      "TEM-35CHSABH",
+      "TEM-35CHSF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1441.json",
+    "searchText": "akai tem-26chsaak5 tem-70chsaak5 tem-26chsaka5 tem-35chsaka tem-50chsaka tem-35chsabh tem-35chsf climate"
+  },
+  {
+    "id": "1440",
+    "type": "climate",
+    "manufacturer": "Akai",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1440.json",
+    "searchText": "akai unknown climate"
+  },
+  {
+    "id": "1460",
+    "type": "climate",
+    "manufacturer": "Alliance",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1460.json",
+    "searchText": "alliance unknown climate"
+  },
+  {
+    "id": "1440",
+    "type": "media_player",
+    "manufacturer": "Andersson",
+    "supportedModels": [
+      "L4223FDC PVR"
+    ],
+    "supportedController": "",
+    "commandsEncoding": "",
+    "path": "codes/media_player/1440.json",
+    "searchText": "andersson l4223fdc pvr media_player"
+  },
+  {
+    "id": "1920",
+    "type": "climate",
+    "manufacturer": "Aokesi",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1920.json",
+    "searchText": "aokesi unknown climate"
+  },
+  {
+    "id": "2680",
+    "type": "climate",
+    "manufacturer": "Apton",
+    "supportedModels": [
+      "AFC-100T"
+    ],
+    "supportedController": "",
+    "commandsEncoding": "",
+    "path": "codes/climate/2680.json",
+    "searchText": "apton afc-100t climate"
+  },
+  {
+    "id": "3160",
+    "type": "climate",
+    "manufacturer": "AquaThermal",
+    "supportedModels": [
+      "LM AURI-12"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3160.json",
+    "searchText": "aquathermal lm auri-12 climate"
+  },
+  {
+    "id": "1180",
+    "type": "fan",
+    "manufacturer": "Argo",
+    "supportedModels": [
+      "Standy"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1180.json",
+    "searchText": "argo standy fan"
+  },
+  {
+    "id": "3140",
+    "type": "climate",
+    "manufacturer": "Argo",
+    "supportedModels": [
+      "Ulisse13"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3140.json",
+    "searchText": "argo ulisse13 climate"
+  },
+  {
+    "id": "2020",
+    "type": "climate",
+    "manufacturer": "Ariston",
+    "supportedModels": [
+      "A-IFWHxx-IGX"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2020.json",
+    "searchText": "ariston a-ifwhxx-igx climate"
+  },
+  {
+    "id": "1160",
+    "type": "fan",
+    "manufacturer": "Atomberg",
+    "supportedModels": [
+      "Efficio"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1160.json",
+    "searchText": "atomberg efficio fan"
+  },
+  {
+    "id": "1170",
+    "type": "fan",
+    "manufacturer": "Atomberg",
+    "supportedModels": [
+      "Renesa"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1170.json",
+    "searchText": "atomberg renesa fan"
+  },
+  {
+    "id": "2540",
+    "type": "climate",
+    "manufacturer": "Audinac",
+    "supportedModels": [
+      "SP3500"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2540.json",
+    "searchText": "audinac sp3500 climate"
+  },
+  {
+    "id": "1961",
+    "type": "climate",
+    "manufacturer": "AUX",
+    "supportedModels": [
+      "AUX FREEDOM AUX-09FH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1961.json",
+    "searchText": "aux aux freedom aux-09fh climate"
+  },
+  {
+    "id": "1962",
+    "type": "climate",
+    "manufacturer": "AUX",
+    "supportedModels": [
+      "iClima ICI-09A"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1962.json",
+    "searchText": "aux iclima ici-09a climate"
+  },
+  {
+    "id": "1963",
+    "type": "climate",
+    "manufacturer": "AUX",
+    "supportedModels": [
+      "Kendal Split Inverter"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1963.json",
+    "searchText": "aux kendal split inverter climate"
+  },
+  {
+    "id": "1960",
+    "type": "climate",
+    "manufacturer": "AUX",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1960.json",
+    "searchText": "aux unknown climate"
+  },
+  {
+    "id": "1801",
+    "type": "climate",
+    "manufacturer": "Ballu",
+    "supportedModels": [
+      "BSD/in-09HN1_20Y"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1801.json",
+    "searchText": "ballu bsd/in-09hn1_20y climate"
+  },
+  {
+    "id": "1800",
+    "type": "climate",
+    "manufacturer": "Ballu",
+    "supportedModels": [
+      "YKR-K/002E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1800.json",
+    "searchText": "ballu ykr-k/002e climate"
+  },
+  {
+    "id": "1340",
+    "type": "media_player",
+    "manufacturer": "Bauhn",
+    "supportedModels": [
+      "Aldi"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1340.json",
+    "searchText": "bauhn aldi media_player"
+  },
+  {
+    "id": "2380",
+    "type": "climate",
+    "manufacturer": "BAXI",
+    "supportedModels": [
+      "Unknow"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2380.json",
+    "searchText": "baxi unknow climate"
+  },
+  {
+    "id": "1600",
+    "type": "climate",
+    "manufacturer": "Beko",
+    "supportedModels": [
+      "BEVCA 120"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1600.json",
+    "searchText": "beko bevca 120 climate"
+  },
+  {
+    "id": "1601",
+    "type": "climate",
+    "manufacturer": "Beko",
+    "supportedModels": [
+      "BPAK 120"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1601.json",
+    "searchText": "beko bpak 120 climate"
+  },
+  {
+    "id": "1604",
+    "type": "climate",
+    "manufacturer": "Beko",
+    "supportedModels": [
+      "BPEU 120"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1604.json",
+    "searchText": "beko bpeu 120 climate"
+  },
+  {
+    "id": "1603",
+    "type": "climate",
+    "manufacturer": "Beko",
+    "supportedModels": [
+      "BXEU 090"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1603.json",
+    "searchText": "beko bxeu 090 climate"
+  },
+  {
+    "id": "1602",
+    "type": "climate",
+    "manufacturer": "Beko",
+    "supportedModels": [
+      "BXK 120"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1602.json",
+    "searchText": "beko bxk 120 climate"
+  },
+  {
+    "id": "2920",
+    "type": "climate",
+    "manufacturer": "Best",
+    "supportedModels": [
+      "BSTS18CNE2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2920.json",
+    "searchText": "best bsts18cne2 climate"
+  },
+  {
+    "id": "2220",
+    "type": "climate",
+    "manufacturer": "Blueridge",
+    "supportedModels": [
+      "RG57A4",
+      "BGEFU1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2220.json",
+    "searchText": "blueridge rg57a4 bgefu1 climate"
+  },
+  {
+    "id": "2880",
+    "type": "climate",
+    "manufacturer": "Bora",
+    "supportedModels": [
+      "18SRA-HE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2880.json",
+    "searchText": "bora 18sra-he climate"
+  },
+  {
+    "id": "2740",
+    "type": "climate",
+    "manufacturer": "Bosch",
+    "supportedModels": [
+      "5000i"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2740.json",
+    "searchText": "bosch 5000i climate"
+  },
+  {
+    "id": "8100",
+    "type": "media_player",
+    "manufacturer": "Cambridge Audio",
+    "supportedModels": [
+      "AXR100"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/8100.json",
+    "searchText": "cambridge audio axr100 media_player"
+  },
+  {
+    "id": "1161",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "40GKX-024RB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1161.json",
+    "searchText": "carrier 40gkx-024rb climate"
+  },
+  {
+    "id": "1163",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "40MAQB12B--3",
+      "40MAQB18B--3"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1163.json",
+    "searchText": "carrier 40maqb12b--3 40maqb18b--3 climate"
+  },
+  {
+    "id": "1164",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "42LUVH025N-1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1164.json",
+    "searchText": "carrier 42luvh025n-1 climate"
+  },
+  {
+    "id": "1165",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "42P250HX",
+      "53P250HX"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1165.json",
+    "searchText": "carrier 42p250hx 53p250hx climate"
+  },
+  {
+    "id": "1162",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "42TVGS024-703"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1162.json",
+    "searchText": "carrier 42tvgs024-703 climate"
+  },
+  {
+    "id": "1166",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "CS-A121N"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1166.json",
+    "searchText": "carrier cs-a121n climate"
+  },
+  {
+    "id": "1160",
+    "type": "climate",
+    "manufacturer": "Carrier",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1160.json",
+    "searchText": "carrier unknown climate"
+  },
+  {
+    "id": "3240",
+    "type": "climate",
+    "manufacturer": "Casper",
+    "supportedModels": [
+      "SC-09FS32"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3240.json",
+    "searchText": "casper sc-09fs32 climate"
+  },
+  {
+    "id": "3100",
+    "type": "climate",
+    "manufacturer": "Cecotec",
+    "supportedModels": [
+      "EnergySilence 12000 AirClima (05290)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3100.json",
+    "searchText": "cecotec energysilence 12000 airclima (05290) climate"
+  },
+  {
+    "id": "1580",
+    "type": "climate",
+    "manufacturer": "Chigo",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1580.json",
+    "searchText": "chigo unknown climate"
+  },
+  {
+    "id": "4580",
+    "type": "climate",
+    "manufacturer": "Chigo",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4580.json",
+    "searchText": "chigo unknown climate"
+  },
+  {
+    "id": "4581",
+    "type": "climate",
+    "manufacturer": "Chigo",
+    "supportedModels": [
+      "ZH/LW-03"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4581.json",
+    "searchText": "chigo zh/lw-03 climate"
+  },
+  {
+    "id": "1582",
+    "type": "climate",
+    "manufacturer": "Chigo",
+    "supportedModels": [
+      "ZH/TT-14"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1582.json",
+    "searchText": "chigo zh/tt-14 climate"
+  },
+  {
+    "id": "1581",
+    "type": "climate",
+    "manufacturer": "Chigo",
+    "supportedModels": [
+      "ZH/TY-01"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1581.json",
+    "searchText": "chigo zh/ty-01 climate"
+  },
+  {
+    "id": "3320",
+    "type": "climate",
+    "manufacturer": "Chunlan",
+    "supportedModels": [
+      "KFR-25GW/VW (CH-9)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3320.json",
+    "searchText": "chunlan kfr-25gw/vw (ch-9) climate"
+  },
+  {
+    "id": "1241",
+    "type": "climate",
+    "manufacturer": "Consul",
+    "supportedModels": [
+      "CBV12CBBNA",
+      "CBY12DBBNA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1241.json",
+    "searchText": "consul cbv12cbbna cby12dbbna climate"
+  },
+  {
+    "id": "1240",
+    "type": "climate",
+    "manufacturer": "Consul",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1240.json",
+    "searchText": "consul unknown climate"
+  },
+  {
+    "id": "3120",
+    "type": "climate",
+    "manufacturer": "Cooper & Hunter",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3120.json",
+    "searchText": "cooper & hunter unknown climate"
+  },
+  {
+    "id": "5120",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "ARC433B51"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/5120.json",
+    "searchText": "daikin arc433b51 climate"
+  },
+  {
+    "id": "1118",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "ARC452A21",
+      "FTXS09LVJU",
+      "FTXS12LVJU",
+      "FTXS15LVJU",
+      "FTXS18LVJU",
+      "FTXS24LVJU"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1118.json",
+    "searchText": "daikin arc452a21 ftxs09lvju ftxs12lvju ftxs15lvju ftxs18lvju ftxs24lvju climate"
+  },
+  {
+    "id": "1112",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "ATKC09TV2S",
+      "FTKQ12TV2S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1112.json",
+    "searchText": "daikin atkc09tv2s ftkq12tv2s climate"
+  },
+  {
+    "id": "1106",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "ATX20KV1B",
+      "ATX25KV1B",
+      "ATX35KV1B"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1106.json",
+    "searchText": "daikin atx20kv1b atx25kv1b atx35kv1b climate"
+  },
+  {
+    "id": "1109",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "BRC4C158"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1109.json",
+    "searchText": "daikin brc4c158 climate"
+  },
+  {
+    "id": "1117",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "DTXF35TVMA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1117.json",
+    "searchText": "daikin dtxf35tvma climate"
+  },
+  {
+    "id": "1116",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FCQ100KAVEA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1116.json",
+    "searchText": "daikin fcq100kavea climate"
+  },
+  {
+    "id": "1110",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTC15NV14",
+      "FTC20NV14",
+      "FTC25NV14",
+      "FTC35NV14"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1110.json",
+    "searchText": "daikin ftc15nv14 ftc20nv14 ftc25nv14 ftc35nv14 climate"
+  },
+  {
+    "id": "1111",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTE09NV25"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1111.json",
+    "searchText": "daikin fte09nv25 climate"
+  },
+  {
+    "id": "1102",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTV20AXV14"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1102.json",
+    "searchText": "daikin ftv20axv14 climate"
+  },
+  {
+    "id": "1107",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTX25JAV1NB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1107.json",
+    "searchText": "daikin ftx25jav1nb climate"
+  },
+  {
+    "id": "1115",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "ftxb-c"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1115.json",
+    "searchText": "daikin ftxb-c climate"
+  },
+  {
+    "id": "1108",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXG25EV1BS",
+      "FTXG35EV1BS",
+      "FTXG35EV1BW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1108.json",
+    "searchText": "daikin ftxg25ev1bs ftxg35ev1bs ftxg35ev1bw climate"
+  },
+  {
+    "id": "1114",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXM35UVMZ"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1114.json",
+    "searchText": "daikin ftxm35uvmz climate"
+  },
+  {
+    "id": "1101",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXS20LVMA",
+      "FTXS25LVMA",
+      "FTXS35LVMA",
+      "FTXS46LVMA",
+      "FTXS50LVMA",
+      "FTXS60LVMA",
+      "FTXS71LVMA",
+      "FTXS85LVMA",
+      "FTXS95LVMA",
+      "FVXS50FV1B",
+      "FTXL35J2V1B",
+      "FTXM25UVMA",
+      "FTXM35UVMA",
+      "FTXD25DVMA",
+      "FTXS35G2V1B",
+      "FTXM71UVMA",
+      "FTM09PV2S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1101.json",
+    "searchText": "daikin ftxs20lvma ftxs25lvma ftxs35lvma ftxs46lvma ftxs50lvma ftxs60lvma ftxs71lvma ftxs85lvma ftxs95lvma fvxs50fv1b ftxl35j2v1b ftxm25uvma ftxm35uvma ftxd25dvma ftxs35g2v1b ftxm71uvma ftm09pv2s climate"
+  },
+  {
+    "id": "1100",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXS25CVMB",
+      "FTXS35CVMB",
+      "FTXS60BVMB",
+      "FVXS25BVMB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1100.json",
+    "searchText": "daikin ftxs25cvmb ftxs35cvmb ftxs60bvmb fvxs25bvmb climate"
+  },
+  {
+    "id": "4100",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXS25CVMB",
+      "FTXS35CVMB",
+      "FTXS60BVMB",
+      "FVXS25BVMB"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4100.json",
+    "searchText": "daikin ftxs25cvmb ftxs35cvmb ftxs60bvmb fvxs25bvmb climate"
+  },
+  {
+    "id": "1119",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXS60FVMA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1119.json",
+    "searchText": "daikin ftxs60fvma climate"
+  },
+  {
+    "id": "1113",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "FTXV35AV1B"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1113.json",
+    "searchText": "daikin ftxv35av1b climate"
+  },
+  {
+    "id": "1104",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "TF25DVM"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1104.json",
+    "searchText": "daikin tf25dvm climate"
+  },
+  {
+    "id": "1103",
+    "type": "climate",
+    "manufacturer": "Daikin",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1103.json",
+    "searchText": "daikin unknown climate"
+  },
+  {
+    "id": "1762",
+    "type": "climate",
+    "manufacturer": "Daitsu",
+    "supportedModels": [
+      "ASD9KI-DT"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1762.json",
+    "searchText": "daitsu asd9ki-dt climate"
+  },
+  {
+    "id": "1763",
+    "type": "climate",
+    "manufacturer": "Daitsu",
+    "supportedModels": [
+      "DOS12KIDB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1763.json",
+    "searchText": "daitsu dos12kidb climate"
+  },
+  {
+    "id": "1764",
+    "type": "climate",
+    "manufacturer": "Daitsu",
+    "supportedModels": [
+      "DS-12KIDC(WD)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1764.json",
+    "searchText": "daitsu ds-12kidc(wd) climate"
+  },
+  {
+    "id": "1761",
+    "type": "climate",
+    "manufacturer": "Daitsu",
+    "supportedModels": [
+      "DS-9KIDT"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1761.json",
+    "searchText": "daitsu ds-9kidt climate"
+  },
+  {
+    "id": "1760",
+    "type": "climate",
+    "manufacturer": "Daitsu",
+    "supportedModels": [
+      "DS12U-RV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1760.json",
+    "searchText": "daitsu ds12u-rv climate"
+  },
+  {
+    "id": "1105",
+    "type": "climate",
+    "manufacturer": "Dalkin",
+    "supportedModels": [
+      "FTX12NMVJU"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1105.json",
+    "searchText": "dalkin ftx12nmvju climate"
+  },
+  {
+    "id": "1200",
+    "type": "fan",
+    "manufacturer": "DCG",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1200.json",
+    "searchText": "dcg unknown fan"
+  },
+  {
+    "id": "2243",
+    "type": "climate",
+    "manufacturer": "DeLonghi",
+    "supportedModels": [
+      "DL3000"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2243.json",
+    "searchText": "delonghi dl3000 climate"
+  },
+  {
+    "id": "2242",
+    "type": "climate",
+    "manufacturer": "DeLonghi",
+    "supportedModels": [
+      "PAC AN140HPEW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2242.json",
+    "searchText": "delonghi pac an140hpew climate"
+  },
+  {
+    "id": "2241",
+    "type": "climate",
+    "manufacturer": "DeLonghi",
+    "supportedModels": [
+      "PAC EM77"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2241.json",
+    "searchText": "delonghi pac em77 climate"
+  },
+  {
+    "id": "2240",
+    "type": "climate",
+    "manufacturer": "DeLonghi",
+    "supportedModels": [
+      "PAC N82ECO",
+      "PAC AN111"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2240.json",
+    "searchText": "delonghi pac n82eco pac an111 climate"
+  },
+  {
+    "id": "3180",
+    "type": "climate",
+    "manufacturer": "Devanti",
+    "supportedModels": [
+      "WAC-05C-WH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3180.json",
+    "searchText": "devanti wac-05c-wh climate"
+  },
+  {
+    "id": "1580",
+    "type": "media_player",
+    "manufacturer": "Dialog",
+    "supportedModels": [
+      "J-103BF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1580.json",
+    "searchText": "dialog j-103bf media_player"
+  },
+  {
+    "id": "2060",
+    "type": "climate",
+    "manufacturer": "Dimplex",
+    "supportedModels": [
+      "GDPAC12RC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2060.json",
+    "searchText": "dimplex gdpac12rc climate"
+  },
+  {
+    "id": "2960",
+    "type": "climate",
+    "manufacturer": "EcoAir",
+    "supportedModels": [
+      "Split Type Wall Air Conditioner"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2960.json",
+    "searchText": "ecoair split type wall air conditioner climate"
+  },
+  {
+    "id": "1460",
+    "type": "media_player",
+    "manufacturer": "Edifier",
+    "supportedModels": [
+      "R1280DB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1460.json",
+    "searchText": "edifier r1280db media_player"
+  },
+  {
+    "id": "1461",
+    "type": "media_player",
+    "manufacturer": "Edifier",
+    "supportedModels": [
+      "R2000DB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1461.json",
+    "searchText": "edifier r2000db media_player"
+  },
+  {
+    "id": "1948",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Classic 10"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1948.json",
+    "searchText": "electra classic 10 climate"
+  },
+  {
+    "id": "1945",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Electra"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1945.json",
+    "searchText": "electra electra climate"
+  },
+  {
+    "id": "1947",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Electra"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1947.json",
+    "searchText": "electra electra climate"
+  },
+  {
+    "id": "1942",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Electra Classic"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1942.json",
+    "searchText": "electra electra classic climate"
+  },
+  {
+    "id": "1944",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Electra Platinum Plus Inverter"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1944.json",
+    "searchText": "electra electra platinum plus inverter climate"
+  },
+  {
+    "id": "1946",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "RC-3"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1946.json",
+    "searchText": "electra rc-3 climate"
+  },
+  {
+    "id": "1940",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1940.json",
+    "searchText": "electra unknown climate"
+  },
+  {
+    "id": "1941",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1941.json",
+    "searchText": "electra unknown climate"
+  },
+  {
+    "id": "1943",
+    "type": "climate",
+    "manufacturer": "Electra",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1943.json",
+    "searchText": "electra unknown climate"
+  },
+  {
+    "id": "1705",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "EACM-10 HR/N3"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1705.json",
+    "searchText": "electrolux eacm-10 hr/n3 climate"
+  },
+  {
+    "id": "1701",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "EACS-HA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1701.json",
+    "searchText": "electrolux eacs-ha climate"
+  },
+  {
+    "id": "1700",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "EACS/I-HAT/N3"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1700.json",
+    "searchText": "electrolux eacs/i-hat/n3 climate"
+  },
+  {
+    "id": "1704",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "EPI12LEIWI"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1704.json",
+    "searchText": "electrolux epi12leiwi climate"
+  },
+  {
+    "id": "1703",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "EXP26U758CW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1703.json",
+    "searchText": "electrolux exp26u758cw climate"
+  },
+  {
+    "id": "1702",
+    "type": "climate",
+    "manufacturer": "Electrolux",
+    "supportedModels": [
+      "QI/QE09F",
+      "QI/QE09R",
+      "QI/QE12F",
+      "QI/QE12R",
+      "QI/QE18F",
+      "QI/QE18R",
+      "QI/QE22F",
+      "QI/QE22R",
+      "XI/XE09F",
+      "XI/XE09R",
+      "XI/XE12F",
+      "XI/XE12R",
+      "XI/XE18F",
+      "XI/XE18R",
+      "XI/XE22F",
+      "XI/XE22R"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1702.json",
+    "searchText": "electrolux qi/qe09f qi/qe09r qi/qe12f qi/qe12r qi/qe18f qi/qe18r qi/qe22f qi/qe22r xi/xe09f xi/xe09r xi/xe12f xi/xe12r xi/xe18f xi/xe18r xi/xe22f xi/xe22r climate"
+  },
+  {
+    "id": "2801",
+    "type": "climate",
+    "manufacturer": "ELGIN",
+    "supportedModels": [
+      "HVQI12B2FB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2801.json",
+    "searchText": "elgin hvqi12b2fb climate"
+  },
+  {
+    "id": "2800",
+    "type": "climate",
+    "manufacturer": "ELGIN",
+    "supportedModels": [
+      "HVQI18B2IA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2800.json",
+    "searchText": "elgin hvqi18b2ia climate"
+  },
+  {
+    "id": "2500",
+    "type": "climate",
+    "manufacturer": "Endesa",
+    "supportedModels": [
+      "DGR11"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2500.json",
+    "searchText": "endesa dgr11 climate"
+  },
+  {
+    "id": "1540",
+    "type": "media_player",
+    "manufacturer": "Epson",
+    "supportedModels": [
+      "MG-850HD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1540.json",
+    "searchText": "epson mg-850hd media_player"
+  },
+  {
+    "id": "2600",
+    "type": "climate",
+    "manufacturer": "Equation",
+    "supportedModels": [
+      "RCH-143"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2600.json",
+    "searchText": "equation rch-143 climate"
+  },
+  {
+    "id": "1720",
+    "type": "climate",
+    "manufacturer": "Erisson",
+    "supportedModels": [
+      "EC-S07T2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1720.json",
+    "searchText": "erisson ec-s07t2 climate"
+  },
+  {
+    "id": "1120",
+    "type": "fan",
+    "manufacturer": "Europace",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1120.json",
+    "searchText": "europace unknown fan"
+  },
+  {
+    "id": "7741",
+    "type": "climate",
+    "manufacturer": "Family",
+    "supportedModels": [
+      "12WIFI"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/7741.json",
+    "searchText": "family 12wifi climate"
+  },
+  {
+    "id": "2460",
+    "type": "climate",
+    "manufacturer": "FanWorld",
+    "supportedModels": [
+      "FW6-3000"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2460.json",
+    "searchText": "fanworld fw6-3000 climate"
+  },
+  {
+    "id": "2640",
+    "type": "climate",
+    "manufacturer": "Fisher",
+    "supportedModels": [
+      "FPR-91DE4-R",
+      "FPR-121DE4-R",
+      "FPR-141DE4-R"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2640.json",
+    "searchText": "fisher fpr-91de4-r fpr-121de4-r fpr-141de4-r climate"
+  },
+  {
+    "id": "2641",
+    "type": "climate",
+    "manufacturer": "Fisher",
+    "supportedModels": [
+      "FSOAI-SU-90AE2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2641.json",
+    "searchText": "fisher fsoai-su-90ae2 climate"
+  },
+  {
+    "id": "2360",
+    "type": "climate",
+    "manufacturer": "Flouu",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2360.json",
+    "searchText": "flouu unknown climate"
+  },
+  {
+    "id": "3200",
+    "type": "climate",
+    "manufacturer": "Friedrich",
+    "supportedModels": [
+      "CP12G10B"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3200.json",
+    "searchText": "friedrich cp12g10b climate"
+  },
+  {
+    "id": "1980",
+    "type": "climate",
+    "manufacturer": "Fuji",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1980.json",
+    "searchText": "fuji unknown climate"
+  },
+  {
+    "id": "1640",
+    "type": "climate",
+    "manufacturer": "FUJIKO",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1640.json",
+    "searchText": "fujiko unknown climate"
+  },
+  {
+    "id": "1283",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-AB5"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1283.json",
+    "searchText": "fujitsu ar-ab5 climate"
+  },
+  {
+    "id": "1288",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-AB8"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1288.json",
+    "searchText": "fujitsu ar-ab8 climate"
+  },
+  {
+    "id": "1286",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-JE5"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1286.json",
+    "searchText": "fujitsu ar-je5 climate"
+  },
+  {
+    "id": "1282",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-JW11"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1282.json",
+    "searchText": "fujitsu ar-jw11 climate"
+  },
+  {
+    "id": "1280",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RBE1E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1280.json",
+    "searchText": "fujitsu ar-rbe1e climate"
+  },
+  {
+    "id": "1285",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RCE1E",
+      "AR-PZ2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1285.json",
+    "searchText": "fujitsu ar-rce1e ar-pz2 climate"
+  },
+  {
+    "id": "4285",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RCE1E"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4285.json",
+    "searchText": "fujitsu ar-rce1e climate"
+  },
+  {
+    "id": "7285",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RCE1E"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7285.json",
+    "searchText": "fujitsu ar-rce1e climate"
+  },
+  {
+    "id": "1291",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-REF1E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1291.json",
+    "searchText": "fujitsu ar-ref1e climate"
+  },
+  {
+    "id": "1284",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-REG1U"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1284.json",
+    "searchText": "fujitsu ar-reg1u climate"
+  },
+  {
+    "id": "1289",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-REW1E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1289.json",
+    "searchText": "fujitsu ar-rew1e climate"
+  },
+  {
+    "id": "1290",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RFL7J"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1290.json",
+    "searchText": "fujitsu ar-rfl7j climate"
+  },
+  {
+    "id": "1294",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "AR-RY4"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1294.json",
+    "searchText": "fujitsu ar-ry4 climate"
+  },
+  {
+    "id": "1287",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "ASYG-LMCE",
+      "AR-REB1E",
+      "AR-REM7E",
+      "AR-REW2E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1287.json",
+    "searchText": "fujitsu asyg-lmce ar-reb1e ar-rem7e ar-rew2e climate"
+  },
+  {
+    "id": "1293",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "ASYG07LM",
+      "ASYG09LM",
+      "AR-REB1E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1293.json",
+    "searchText": "fujitsu asyg07lm asyg09lm ar-reb1e climate"
+  },
+  {
+    "id": "1292",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "ASYG18LF",
+      "AR-RY12"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1292.json",
+    "searchText": "fujitsu asyg18lf ar-ry12 climate"
+  },
+  {
+    "id": "1281",
+    "type": "climate",
+    "manufacturer": "Fujitsu",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1281.json",
+    "searchText": "fujitsu unknown climate"
+  },
+  {
+    "id": "2520",
+    "type": "climate",
+    "manufacturer": "Galanz",
+    "supportedModels": [
+      "GZ-1002B-E3"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2520.json",
+    "searchText": "galanz gz-1002b-e3 climate"
+  },
+  {
+    "id": "1044",
+    "type": "climate",
+    "manufacturer": "General Electric",
+    "supportedModels": [
+      "AHD08LXW1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1044.json",
+    "searchText": "general electric ahd08lxw1 climate"
+  },
+  {
+    "id": "1043",
+    "type": "climate",
+    "manufacturer": "General Electric",
+    "supportedModels": [
+      "ASWX09LECA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1043.json",
+    "searchText": "general electric aswx09leca climate"
+  },
+  {
+    "id": "1041",
+    "type": "climate",
+    "manufacturer": "Ggeneral Electric",
+    "supportedModels": [
+      "AE1PH09IWF",
+      "AE0PH09IWO",
+      "AE1PH12IWF",
+      "AE0PH12IWO",
+      "AE4PH18IWF",
+      "AE4PH18IWF",
+      "AE5PH18IWO"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1041.json",
+    "searchText": "ggeneral electric ae1ph09iwf ae0ph09iwo ae1ph12iwf ae0ph12iwo ae4ph18iwf ae4ph18iwf ae5ph18iwo climate"
+  },
+  {
+    "id": "1042",
+    "type": "climate",
+    "manufacturer": "Ggeneral Electric",
+    "supportedModels": [
+      "ASHA09LCC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1042.json",
+    "searchText": "ggeneral electric asha09lcc climate"
+  },
+  {
+    "id": "1040",
+    "type": "climate",
+    "manufacturer": "Ggeneral Electric",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1040.json",
+    "searchText": "ggeneral electric unknown climate"
+  },
+  {
+    "id": "2900",
+    "type": "climate",
+    "manufacturer": "Goodman",
+    "supportedModels": [
+      "MSH123E21AXAA",
+      "MST183E20ACAA",
+      "RG57E1/BGEU1 (remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2900.json",
+    "searchText": "goodman msh123e21axaa mst183e20acaa rg57e1/bgeu1 (remote) climate"
+  },
+  {
+    "id": "1182",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "GMV-R45G/NaB-K"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1182.json",
+    "searchText": "gree gmv-r45g/nab-k climate"
+  },
+  {
+    "id": "1183",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "Gree Smart inverter models. WiFi off. Health on. Swing modes: [swing]_[led]"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1183.json",
+    "searchText": "gree gree smart inverter models. wifi off. health on. swing modes: [swing]_[led] climate"
+  },
+  {
+    "id": "1184",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "GWH09KF",
+      "GC-EAF09HR"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1184.json",
+    "searchText": "gree gwh09kf gc-eaf09hr climate"
+  },
+  {
+    "id": "1180",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "GWH12-KF-K3DNA5G-I"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1180.json",
+    "searchText": "gree gwh12-kf-k3dna5g-i climate"
+  },
+  {
+    "id": "1186",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "GWH18ACD-D3DNA 1M"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1186.json",
+    "searchText": "gree gwh18acd-d3dna 1m climate"
+  },
+  {
+    "id": "1185",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "KFR-50LW",
+      "YAP1F2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1185.json",
+    "searchText": "gree kfr-50lw yap1f2 climate"
+  },
+  {
+    "id": "1181",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1181.json",
+    "searchText": "gree unknown climate"
+  },
+  {
+    "id": "4180",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4180.json",
+    "searchText": "gree unknown climate"
+  },
+  {
+    "id": "1187",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "Unknown model"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1187.json",
+    "searchText": "gree unknown model climate"
+  },
+  {
+    "id": "1188",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "VIR18HP230V1AH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1188.json",
+    "searchText": "gree vir18hp230v1ah climate"
+  },
+  {
+    "id": "4181",
+    "type": "climate",
+    "manufacturer": "Gree",
+    "supportedModels": [
+      "YB1FA"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4181.json",
+    "searchText": "gree yb1fa climate"
+  },
+  {
+    "id": "1280",
+    "type": "media_player",
+    "manufacturer": "Grunding",
+    "supportedModels": [
+      "GSB-810"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1280.json",
+    "searchText": "grunding gsb-810 media_player"
+  },
+  {
+    "id": "1322",
+    "type": "climate",
+    "manufacturer": "Haier",
+    "supportedModels": [
+      "HSU-09HPL03/R03"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1322.json",
+    "searchText": "haier hsu-09hpl03/r03 climate"
+  },
+  {
+    "id": "1321",
+    "type": "climate",
+    "manufacturer": "Haier",
+    "supportedModels": [
+      "Top-Tech 14"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1321.json",
+    "searchText": "haier top-tech 14 climate"
+  },
+  {
+    "id": "1320",
+    "type": "climate",
+    "manufacturer": "Haier",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1320.json",
+    "searchText": "haier unknown climate"
+  },
+  {
+    "id": "2281",
+    "type": "climate",
+    "manufacturer": "Hantech",
+    "supportedModels": [
+      "A016-09KR2/A"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2281.json",
+    "searchText": "hantech a016-09kr2/a climate"
+  },
+  {
+    "id": "2280",
+    "type": "climate",
+    "manufacturer": "Hantech",
+    "supportedModels": [
+      "A018-12KR2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2280.json",
+    "searchText": "hantech a018-12kr2 climate"
+  },
+  {
+    "id": "3060",
+    "type": "climate",
+    "manufacturer": "HappyTree",
+    "supportedModels": [
+      "TAC-12CHSD/XA81"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3060.json",
+    "searchText": "happytree tac-12chsd/xa81 climate"
+  },
+  {
+    "id": "1080",
+    "type": "fan",
+    "manufacturer": "Harbor Breeze",
+    "supportedModels": [
+      "A25-TX001-R1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1080.json",
+    "searchText": "harbor breeze a25-tx001-r1 fan"
+  },
+  {
+    "id": "1081",
+    "type": "fan",
+    "manufacturer": "Harbor Breeze",
+    "supportedModels": [
+      "A25-TX025"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1081.json",
+    "searchText": "harbor breeze a25-tx025 fan"
+  },
+  {
+    "id": "5520",
+    "type": "climate",
+    "manufacturer": "Hisense",
+    "supportedModels": [
+      "AS-07UR4SYDD815G"
+    ],
+    "supportedController": "LOOKin",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/5520.json",
+    "searchText": "hisense as-07ur4sydd815g climate"
+  },
+  {
+    "id": "1522",
+    "type": "climate",
+    "manufacturer": "Hisense",
+    "supportedModels": [
+      "DGR11R2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1522.json",
+    "searchText": "hisense dgr11r2 climate"
+  },
+  {
+    "id": "1520",
+    "type": "climate",
+    "manufacturer": "Hisense",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1520.json",
+    "searchText": "hisense unknown climate"
+  },
+  {
+    "id": "1521",
+    "type": "climate",
+    "manufacturer": "Hisense",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1521.json",
+    "searchText": "hisense unknown climate"
+  },
+  {
+    "id": "1091",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "HSPE2700FCINV",
+      "HSPE3200FCINV",
+      "HSPE5400FCINV",
+      "HSPE6400FCINV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1091.json",
+    "searchText": "hitachi hspe2700fcinv hspe3200fcinv hspe5400fcinv hspe6400fcinv climate"
+  },
+  {
+    "id": "1081",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAC-10EH1",
+      "RAC-18EH1",
+      "RAS-10EH1",
+      "RAS-10EH3",
+      "RAS-18EH1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1081.json",
+    "searchText": "hitachi rac-10eh1 rac-18eh1 ras-10eh1 ras-10eh3 ras-18eh1 climate"
+  },
+  {
+    "id": "1086",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAC-28NK1",
+      "RAC-36NK1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1086.json",
+    "searchText": "hitachi rac-28nk1 rac-36nk1 climate"
+  },
+  {
+    "id": "1080",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAC-50HK1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1080.json",
+    "searchText": "hitachi rac-50hk1 climate"
+  },
+  {
+    "id": "1088",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAF-25REX",
+      "RAF-35REX",
+      "RAF-50REX"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1088.json",
+    "searchText": "hitachi raf-25rex raf-35rex raf-50rex climate"
+  },
+  {
+    "id": "1089",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAK-35RXE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1089.json",
+    "searchText": "hitachi rak-35rxe climate"
+  },
+  {
+    "id": "1090",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAK-50RPE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1090.json",
+    "searchText": "hitachi rak-50rpe climate"
+  },
+  {
+    "id": "1082",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAS-25YHA",
+      "RAS-35YHA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1082.json",
+    "searchText": "hitachi ras-25yha ras-35yha climate"
+  },
+  {
+    "id": "1084",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAS-DX18HDK",
+      "RAK-35RPC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1084.json",
+    "searchText": "hitachi ras-dx18hdk rak-35rpc climate"
+  },
+  {
+    "id": "1092",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAS-E14HB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1092.json",
+    "searchText": "hitachi ras-e14hb climate"
+  },
+  {
+    "id": "1087",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RAS-E25YHAB",
+      "RAS-E35YHAB",
+      "RAS-E50YHAB"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1087.json",
+    "searchText": "hitachi ras-e25yhab ras-e35yhab ras-e50yhab climate"
+  },
+  {
+    "id": "1085",
+    "type": "climate",
+    "manufacturer": "Hitachi",
+    "supportedModels": [
+      "RPA24B3BL"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1085.json",
+    "searchText": "hitachi rpa24b3bl climate"
+  },
+  {
+    "id": "2180",
+    "type": "climate",
+    "manufacturer": "Hokkaido",
+    "supportedModels": [
+      "LA09-DUAL H1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2180.json",
+    "searchText": "hokkaido la09-dual h1 climate"
+  },
+  {
+    "id": "2840",
+    "type": "climate",
+    "manufacturer": "HTW",
+    "supportedModels": [
+      "HTWS035IX21D2-R32-I"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2840.json",
+    "searchText": "htw htws035ix21d2-r32-i climate"
+  },
+  {
+    "id": "1840",
+    "type": "climate",
+    "manufacturer": "Hualing",
+    "supportedModels": [
+      "KFR-45GW/JNV",
+      "KFR-45G/JNV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1840.json",
+    "searchText": "hualing kfr-45gw/jnv kfr-45g/jnv climate"
+  },
+  {
+    "id": "2662",
+    "type": "climate",
+    "manufacturer": "Hyndai",
+    "supportedModels": [
+      "H-ARI22-09H"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2662.json",
+    "searchText": "hyndai h-ari22-09h climate"
+  },
+  {
+    "id": "2660",
+    "type": "climate",
+    "manufacturer": "Hyundai",
+    "supportedModels": [
+      "HSE09PH5V"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2660.json",
+    "searchText": "hyundai hse09ph5v climate"
+  },
+  {
+    "id": "2661",
+    "type": "climate",
+    "manufacturer": "Hyundai",
+    "supportedModels": [
+      "HY6INV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2661.json",
+    "searchText": "hyundai hy6inv climate"
+  },
+  {
+    "id": "2200",
+    "type": "climate",
+    "manufacturer": "IGC",
+    "supportedModels": [
+      "RAK-12NH",
+      "RAK-18NH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2200.json",
+    "searchText": "igc rak-12nh rak-18nh climate"
+  },
+  {
+    "id": "1080",
+    "type": "media_player",
+    "manufacturer": "Insignia",
+    "supportedModels": [
+      "NS-42D510NA15"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1080.json",
+    "searchText": "insignia ns-42d510na15 media_player"
+  },
+  {
+    "id": "1000",
+    "type": "light",
+    "manufacturer": "Iris Ohyama",
+    "supportedModels": [
+      "LEDHCL-R2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/light/1000.json",
+    "searchText": "iris ohyama ledhcl-r2 light"
+  },
+  {
+    "id": "1420",
+    "type": "media_player",
+    "manufacturer": "JBL",
+    "supportedModels": [
+      "Cinema SB160"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1420.json",
+    "searchText": "jbl cinema sb160 media_player"
+  },
+  {
+    "id": "1421",
+    "type": "media_player",
+    "manufacturer": "JBL",
+    "supportedModels": [
+      "jblbar20aioblkep"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1421.json",
+    "searchText": "jbl jblbar20aioblkep media_player"
+  },
+  {
+    "id": "1480",
+    "type": "climate",
+    "manufacturer": "Junkers",
+    "supportedModels": [
+      "Excellence"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1480.json",
+    "searchText": "junkers excellence climate"
+  },
+  {
+    "id": "1481",
+    "type": "climate",
+    "manufacturer": "Junkers",
+    "supportedModels": [
+      "Excellence"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1481.json",
+    "searchText": "junkers excellence climate"
+  },
+  {
+    "id": "1520",
+    "type": "media_player",
+    "manufacturer": "JVC",
+    "supportedModels": [
+      "RX-5022R"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1520.json",
+    "searchText": "jvc rx-5022r media_player"
+  },
+  {
+    "id": "3360",
+    "type": "climate",
+    "manufacturer": "Kaden",
+    "supportedModels": [
+      "KS09",
+      "KS12",
+      "KS18",
+      "KS24",
+      "KS28"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3360.json",
+    "searchText": "kaden ks09 ks12 ks18 ks24 ks28 climate"
+  },
+  {
+    "id": "1480",
+    "type": "media_player",
+    "manufacturer": "Kanto",
+    "supportedModels": [
+      "YU6"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1480.json",
+    "searchText": "kanto yu6 media_player"
+  },
+  {
+    "id": "1000",
+    "type": "fan",
+    "manufacturer": "Kaze",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1000.json",
+    "searchText": "kaze unknown fan"
+  },
+  {
+    "id": "1740",
+    "type": "climate",
+    "manufacturer": "Kelvinator",
+    "supportedModels": [
+      "KSV25HRG"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1740.json",
+    "searchText": "kelvinator ksv25hrg climate"
+  },
+  {
+    "id": "7740",
+    "type": "climate",
+    "manufacturer": "Kelvinator",
+    "supportedModels": [
+      "KSV25HWH"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7740.json",
+    "searchText": "kelvinator ksv25hwh climate"
+  },
+  {
+    "id": "1741",
+    "type": "climate",
+    "manufacturer": "Kelvinator",
+    "supportedModels": [
+      "KSV26CRC",
+      "KSV26HRC",
+      "KSV35CRC",
+      "KSV35HRC",
+      "KSV53HRC",
+      "KSV62HRC",
+      "KSV70CRC",
+      "KCV70HRC",
+      "KSV80HRC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1741.json",
+    "searchText": "kelvinator ksv26crc ksv26hrc ksv35crc ksv35hrc ksv53hrc ksv62hrc ksv70crc kcv70hrc ksv80hrc climate"
+  },
+  {
+    "id": "1600",
+    "type": "media_player",
+    "manufacturer": "Kivi",
+    "supportedModels": [
+      "40F600GU"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1600.json",
+    "searchText": "kivi 40f600gu media_player"
+  },
+  {
+    "id": "3020",
+    "type": "climate",
+    "manufacturer": "Klasse",
+    "supportedModels": [
+      "DOZ-S06JT"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3020.json",
+    "searchText": "klasse doz-s06jt climate"
+  },
+  {
+    "id": "8700",
+    "type": "climate",
+    "manufacturer": "Kolin",
+    "supportedModels": [
+      "KAG-145RSINV"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/8700.json",
+    "searchText": "kolin kag-145rsinv climate"
+  },
+  {
+    "id": "2700",
+    "type": "climate",
+    "manufacturer": "Kolin",
+    "supportedModels": [
+      "RC-M7B1 (remote)",
+      "KSA-D201",
+      "KSA-D252",
+      "KSA-D562",
+      "KSA-D912",
+      "KSA-D202",
+      "KSA-D322",
+      "KSA-D632",
+      "KSA-20D",
+      "KSA-D362",
+      "KSA-D682",
+      "KSA-25D",
+      "KSA-D452",
+      "KSA-D782"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2700.json",
+    "searchText": "kolin rc-m7b1 (remote) ksa-d201 ksa-d252 ksa-d562 ksa-d912 ksa-d202 ksa-d322 ksa-d632 ksa-20d ksa-d362 ksa-d682 ksa-25d ksa-d452 ksa-d782 climate"
+  },
+  {
+    "id": "2620",
+    "type": "climate",
+    "manufacturer": "Komeco",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2620.json",
+    "searchText": "komeco unknown climate"
+  },
+  {
+    "id": "2580",
+    "type": "climate",
+    "manufacturer": "KOREL",
+    "supportedModels": [
+      "KSAL2-09DCEH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2580.json",
+    "searchText": "korel ksal2-09dceh climate"
+  },
+  {
+    "id": "2160",
+    "type": "climate",
+    "manufacturer": "Lennox",
+    "supportedModels": [
+      "2018",
+      "2019"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2160.json",
+    "searchText": "lennox 2018 2019 climate"
+  },
+  {
+    "id": "2162",
+    "type": "climate",
+    "manufacturer": "Lennox",
+    "supportedModels": [
+      "LNINVE052",
+      "LNINVC052"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2162.json",
+    "searchText": "lennox lninve052 lninvc052 climate"
+  },
+  {
+    "id": "2161",
+    "type": "climate",
+    "manufacturer": "Lennox",
+    "supportedModels": [
+      "LNMTE026V2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2161.json",
+    "searchText": "lennox lnmte026v2 climate"
+  },
+  {
+    "id": "1040",
+    "type": "media_player",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "22MT47DC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1040.json",
+    "searchText": "lg 22mt47dc media_player"
+  },
+  {
+    "id": "1043",
+    "type": "media_player",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "32LC2R"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1043.json",
+    "searchText": "lg 32lc2r media_player"
+  },
+  {
+    "id": "1042",
+    "type": "media_player",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "43UM7510PSB",
+      "OLED55B8SSC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1042.json",
+    "searchText": "lg 43um7510psb oled55b8ssc media_player"
+  },
+  {
+    "id": "1068",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "AKB74295303"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1068.json",
+    "searchText": "lg akb74295303 climate"
+  },
+  {
+    "id": "1069",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "AKB74295304"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1069.json",
+    "searchText": "lg akb74295304 climate"
+  },
+  {
+    "id": "4060",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "G09LH"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4060.json",
+    "searchText": "lg g09lh climate"
+  },
+  {
+    "id": "1066",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "LA090HYV",
+      "LA120HYV",
+      "LAN090HYV",
+      "LAN120HYV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1066.json",
+    "searchText": "lg la090hyv la120hyv lan090hyv lan120hyv climate"
+  },
+  {
+    "id": "1065",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "LG080EC",
+      "LG100EC",
+      "LG150EC",
+      "LG200EC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1065.json",
+    "searchText": "lg lg080ec lg100ec lg150ec lg200ec climate"
+  },
+  {
+    "id": "7065",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "LG080EC",
+      "LG100EC",
+      "LG150EC",
+      "LG200EC"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7065.json",
+    "searchText": "lg lg080ec lg100ec lg150ec lg200ec climate"
+  },
+  {
+    "id": "1041",
+    "type": "media_player",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "LH6235D"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1041.json",
+    "searchText": "lg lh6235d media_player"
+  },
+  {
+    "id": "1063",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "P12EP1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1063.json",
+    "searchText": "lg p12ep1 climate"
+  },
+  {
+    "id": "1062",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "P12RK",
+      "A06AWV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1062.json",
+    "searchText": "lg p12rk a06awv climate"
+  },
+  {
+    "id": "7062",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "P12RK"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7062.json",
+    "searchText": "lg p12rk climate"
+  },
+  {
+    "id": "1070",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "PC09SQ NSJ"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1070.json",
+    "searchText": "lg pc09sq nsj climate"
+  },
+  {
+    "id": "1060",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "R09AWN",
+      "R24AWN",
+      "E09EK"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1060.json",
+    "searchText": "lg r09awn r24awn e09ek climate"
+  },
+  {
+    "id": "1083",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "RAS-32CNH2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1083.json",
+    "searchText": "lg ras-32cnh2 climate"
+  },
+  {
+    "id": "1061",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1061.json",
+    "searchText": "lg unknown climate"
+  },
+  {
+    "id": "1064",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1064.json",
+    "searchText": "lg unknown climate"
+  },
+  {
+    "id": "1067",
+    "type": "climate",
+    "manufacturer": "LG",
+    "supportedModels": [
+      "W12TCM"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1067.json",
+    "searchText": "lg w12tcm climate"
+  },
+  {
+    "id": "1162",
+    "type": "media_player",
+    "manufacturer": "Logitech",
+    "supportedModels": [
+      "Z-5450"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1162.json",
+    "searchText": "logitech z-5450 media_player"
+  },
+  {
+    "id": "1161",
+    "type": "media_player",
+    "manufacturer": "Logitech",
+    "supportedModels": [
+      "Z-5500"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1161.json",
+    "searchText": "logitech z-5500 media_player"
+  },
+  {
+    "id": "1160",
+    "type": "media_player",
+    "manufacturer": "Logitech",
+    "supportedModels": [
+      "Z906"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1160.json",
+    "searchText": "logitech z906 media_player"
+  },
+  {
+    "id": "1040",
+    "type": "fan",
+    "manufacturer": "Lucci Air",
+    "supportedModels": [
+      "Aria"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1040.json",
+    "searchText": "lucci air aria fan"
+  },
+  {
+    "id": "7040",
+    "type": "fan",
+    "manufacturer": "Lucci Air",
+    "supportedModels": [
+      "Aria"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/fan/7040.json",
+    "searchText": "lucci air aria fan"
+  },
+  {
+    "id": "1041",
+    "type": "fan",
+    "manufacturer": "Lucci Air",
+    "supportedModels": [
+      "Whitehaven DC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1041.json",
+    "searchText": "lucci air whitehaven dc fan"
+  },
+  {
+    "id": "1240",
+    "type": "fan",
+    "manufacturer": "Mallory",
+    "supportedModels": [
+      "Air Timer TS+"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1240.json",
+    "searchText": "mallory air timer ts+ fan"
+  },
+  {
+    "id": "1388",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "42MAQA09S5"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1388.json",
+    "searchText": "midea 42maqa09s5 climate"
+  },
+  {
+    "id": "1386",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "KFR-32GW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1386.json",
+    "searchText": "midea kfr-32gw climate"
+  },
+  {
+    "id": "7386",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "KFR-32GW"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7386.json",
+    "searchText": "midea kfr-32gw climate"
+  },
+  {
+    "id": "1383",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "KFR-35G"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1383.json",
+    "searchText": "midea kfr-35g climate"
+  },
+  {
+    "id": "1389",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MAP05R1WWT"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1389.json",
+    "searchText": "midea map05r1wwt climate"
+  },
+  {
+    "id": "4380",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MCD-24HRN1-Q1"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4380.json",
+    "searchText": "midea mcd-24hrn1-q1 climate"
+  },
+  {
+    "id": "1392",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MPD-12CRN7"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1392.json",
+    "searchText": "midea mpd-12crn7 climate"
+  },
+  {
+    "id": "1393",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MPPHB-09CRN7-QB6-N"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1393.json",
+    "searchText": "midea mpphb-09crn7-qb6-n climate"
+  },
+  {
+    "id": "1384",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MSMACU-18HRFN1-QRD0GW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1384.json",
+    "searchText": "midea msmacu-18hrfn1-qrd0gw climate"
+  },
+  {
+    "id": "1382",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "MSY-12HRDN1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1382.json",
+    "searchText": "midea msy-12hrdn1 climate"
+  },
+  {
+    "id": "1385",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "R11HG/E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1385.json",
+    "searchText": "midea r11hg/e climate"
+  },
+  {
+    "id": "1395",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG10B(D1)/BGEFU1 (Remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1395.json",
+    "searchText": "midea rg10b(d1)/bgefu1 (remote) climate"
+  },
+  {
+    "id": "1390",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG52C1/BGE (Remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1390.json",
+    "searchText": "midea rg52c1/bge (remote) climate"
+  },
+  {
+    "id": "1391",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG58E3/BGEF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1391.json",
+    "searchText": "midea rg58e3/bgef climate"
+  },
+  {
+    "id": "1394",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG70C/BGEF (Remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1394.json",
+    "searchText": "midea rg70c/bgef (remote) climate"
+  },
+  {
+    "id": "4381",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG70C1/BGEF"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4381.json",
+    "searchText": "midea rg70c1/bgef climate"
+  },
+  {
+    "id": "1387",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "RG70E/BGEF (Remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1387.json",
+    "searchText": "midea rg70e/bgef (remote) climate"
+  },
+  {
+    "id": "1380",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1380.json",
+    "searchText": "midea unknown climate"
+  },
+  {
+    "id": "1381",
+    "type": "climate",
+    "manufacturer": "Midea",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1381.json",
+    "searchText": "midea unknown climate"
+  },
+  {
+    "id": "2100",
+    "type": "climate",
+    "manufacturer": "Mirage",
+    "supportedModels": [
+      "Magnum Inverter 19"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2100.json",
+    "searchText": "mirage magnum inverter 19 climate"
+  },
+  {
+    "id": "2560",
+    "type": "climate",
+    "manufacturer": "Mistral",
+    "supportedModels": [
+      "MPAC15CY28"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2560.json",
+    "searchText": "mistral mpac15cy28 climate"
+  },
+  {
+    "id": "1220",
+    "type": "fan",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "C56-RW5"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1220.json",
+    "searchText": "mitsubishi c56-rw5 fan"
+  },
+  {
+    "id": "1139",
+    "type": "climate",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "MLZ-KP09NA2",
+      "MLZ-KP18NA2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1139.json",
+    "searchText": "mitsubishi mlz-kp09na2 mlz-kp18na2 climate"
+  },
+  {
+    "id": "1122",
+    "type": "climate",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "MSZ-AP50VGKD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1122.json",
+    "searchText": "mitsubishi msz-ap50vgkd climate"
+  },
+  {
+    "id": "1135",
+    "type": "climate",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "MSZ-GE60VAD",
+      "MSZ-GE71VAD",
+      "MSZ-GE80VAD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1135.json",
+    "searchText": "mitsubishi msz-ge60vad msz-ge71vad msz-ge80vad climate"
+  },
+  {
+    "id": "1124",
+    "type": "climate",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1124.json",
+    "searchText": "mitsubishi msz-sf25ve3 msz-sf35ve3 msz-sf42ve3 msz-sf50ve3 msz-ap20vg msz-ap25vgd climate"
+  },
+  {
+    "id": "7124",
+    "type": "climate",
+    "manufacturer": "Mitsubishi",
+    "supportedModels": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7124.json",
+    "searchText": "mitsubishi msz-sf25ve3 msz-sf35ve3 msz-sf42ve3 msz-sf50ve3 msz-ap20vg msz-ap25vgd climate"
+  },
+  {
+    "id": "4129",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "DXK18Z1-S"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4129.json",
+    "searchText": "mitsubishi electric dxk18z1-s climate"
+  },
+  {
+    "id": "1134",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MG-GN18VF",
+      "MS-GN18VF",
+      "MS-GN13VF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1134.json",
+    "searchText": "mitsubishi electric mg-gn18vf ms-gn18vf ms-gn13vf climate"
+  },
+  {
+    "id": "1125",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MLZ-KP25VF",
+      "MLZ-KP35VF",
+      "MLZ-KP50VF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1125.json",
+    "searchText": "mitsubishi electric mlz-kp25vf mlz-kp35vf mlz-kp50vf climate"
+  },
+  {
+    "id": "1130",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MS-SGD18VC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1130.json",
+    "searchText": "mitsubishi electric ms-sgd18vc climate"
+  },
+  {
+    "id": "5140",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSC-A12WV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/5140.json",
+    "searchText": "mitsubishi electric msc-a12wv climate"
+  },
+  {
+    "id": "1132",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSC-A12YV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1132.json",
+    "searchText": "mitsubishi electric msc-a12yv climate"
+  },
+  {
+    "id": "1126",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSX09-NV II",
+      "MSH-07RV",
+      "MSH-12RV",
+      "MS-24RV"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1126.json",
+    "searchText": "mitsubishi electric msx09-nv ii msh-07rv msh-12rv ms-24rv climate"
+  },
+  {
+    "id": "1136",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSXY-FP10VG",
+      "MSXY-FP13VG",
+      "MSXY-FP18VG"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1136.json",
+    "searchText": "mitsubishi electric msxy-fp10vg msxy-fp13vg msxy-fp18vg climate"
+  },
+  {
+    "id": "1121",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-GA35VA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1121.json",
+    "searchText": "mitsubishi electric msz-ga35va climate"
+  },
+  {
+    "id": "1129",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-GE22VA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1129.json",
+    "searchText": "mitsubishi electric msz-ge22va climate"
+  },
+  {
+    "id": "1120",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-GL25VGD",
+      "MSZ-GL35VGD",
+      "MSZ-GL42VGD",
+      "MSZ-GL50VGD",
+      "MSZ-GL60VGD",
+      "MSZ-GL71VGD",
+      "MSZ-GL80VGD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1120.json",
+    "searchText": "mitsubishi electric msz-gl25vgd msz-gl35vgd msz-gl42vgd msz-gl50vgd msz-gl60vgd msz-gl71vgd msz-gl80vgd climate"
+  },
+  {
+    "id": "1127",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-HJ25VA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1127.json",
+    "searchText": "mitsubishi electric msz-hj25va climate"
+  },
+  {
+    "id": "1128",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-HJ25VA",
+      "MSZ-HJ35VA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1128.json",
+    "searchText": "mitsubishi electric msz-hj25va msz-hj35va climate"
+  },
+  {
+    "id": "1137",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-HR35VF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1137.json",
+    "searchText": "mitsubishi electric msz-hr35vf climate"
+  },
+  {
+    "id": "4124",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4124.json",
+    "searchText": "mitsubishi electric msz-sf25ve3 msz-sf35ve3 msz-sf42ve3 msz-sf50ve3 msz-ap20vg msz-ap25vgd climate"
+  },
+  {
+    "id": "1131",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "PAR-FL32MA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1131.json",
+    "searchText": "mitsubishi electric par-fl32ma climate"
+  },
+  {
+    "id": "1138",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "Remote KM09D/166901"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1138.json",
+    "searchText": "mitsubishi electric remote km09d/166901 climate"
+  },
+  {
+    "id": "1123",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": [
+      "SRK25ZSX-SRC25ZSX"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1123.json",
+    "searchText": "mitsubishi electric srk25zsx-src25zsx climate"
+  },
+  {
+    "id": "1133",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Electric Starmex",
+    "supportedModels": [
+      "MSXY-FN10VE",
+      "MSXY-FN07VE",
+      "MSXY-FN13VE",
+      "MSXY-FN18VE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1133.json",
+    "searchText": "mitsubishi electric starmex msxy-fn10ve msxy-fn07ve msxy-fn13ve msxy-fn18ve climate"
+  },
+  {
+    "id": "1692",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "DXK12Z3-S",
+      "DXK09Z5-S",
+      "DXK15Z5-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1692.json",
+    "searchText": "mitsubishi heavy dxk12z3-s dxk09z5-s dxk15z5-s climate"
+  },
+  {
+    "id": "1683",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "DXK12ZMA-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1683.json",
+    "searchText": "mitsubishi heavy dxk12zma-s climate"
+  },
+  {
+    "id": "1689",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "DXK12ZSA-W"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1689.json",
+    "searchText": "mitsubishi heavy dxk12zsa-w climate"
+  },
+  {
+    "id": "1690",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "FDUM VF2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1690.json",
+    "searchText": "mitsubishi heavy fdum vf2 climate"
+  },
+  {
+    "id": "1686",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK20ZSA-W",
+      "SRK25ZSA-W",
+      "SRK35ZSA-W",
+      "SRK50ZSA-W"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1686.json",
+    "searchText": "mitsubishi heavy srk20zsa-w srk25zsa-w srk35zsa-w srk50zsa-w climate"
+  },
+  {
+    "id": "1680",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK25ZJ-S1",
+      "SRK13CRV-S1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1680.json",
+    "searchText": "mitsubishi heavy srk25zj-s1 srk13crv-s1 climate"
+  },
+  {
+    "id": "1688",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK25ZSP-W",
+      "SRK35ZSP-W",
+      "SRK45ZSP-W"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1688.json",
+    "searchText": "mitsubishi heavy srk25zsp-w srk35zsp-w srk45zsp-w climate"
+  },
+  {
+    "id": "1687",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK35ZJX-S",
+      "SRK20ZJX-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1687.json",
+    "searchText": "mitsubishi heavy srk35zjx-s srk20zjx-s climate"
+  },
+  {
+    "id": "1685",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK50ZS-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1685.json",
+    "searchText": "mitsubishi heavy srk50zs-s climate"
+  },
+  {
+    "id": "1681",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK71ZK-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1681.json",
+    "searchText": "mitsubishi heavy srk71zk-s climate"
+  },
+  {
+    "id": "1691",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRK71ZRA-W"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1691.json",
+    "searchText": "mitsubishi heavy srk71zra-w climate"
+  },
+  {
+    "id": "1682",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy",
+    "supportedModels": [
+      "SRKM25H",
+      "SRK40HBE",
+      "RKS502A502",
+      "RKS502A503"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1682.json",
+    "searchText": "mitsubishi heavy srkm25h srk40hbe rks502a502 rks502a503 climate"
+  },
+  {
+    "id": "1684",
+    "type": "climate",
+    "manufacturer": "Mitsubishi Heavy Industries",
+    "supportedModels": [
+      "DXK24ZRA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1684.json",
+    "searchText": "mitsubishi heavy industries dxk24zra climate"
+  },
+  {
+    "id": "3220",
+    "type": "climate",
+    "manufacturer": "Mundoclima",
+    "supportedModels": [
+      "MUPR-09-H9A",
+      "MUPR-12-H9A",
+      "MUPR-18-H9A",
+      "MUPR-24-H9A",
+      "MUPR-09-H5A",
+      "MUPR-12-H5A",
+      "MUPR-18-H5A",
+      "MUPR-24-H5A"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3220.json",
+    "searchText": "mundoclima mupr-09-h9a mupr-12-h9a mupr-18-h9a mupr-24-h9a mupr-09-h5a mupr-12-h5a mupr-18-h5a mupr-24-h5a climate"
+  },
+  {
+    "id": "1020",
+    "type": "light",
+    "manufacturer": "NEC",
+    "supportedModels": [
+      "RE0201-CH1"
+    ],
+    "supportedController": "",
+    "commandsEncoding": "",
+    "path": "codes/light/1020.json",
+    "searchText": "nec re0201-ch1 light"
+  },
+  {
+    "id": "1021",
+    "type": "light",
+    "manufacturer": "NEC",
+    "supportedModels": [
+      "RE0201-CH2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/light/1021.json",
+    "searchText": "nec re0201-ch2 light"
+  },
+  {
+    "id": "1640",
+    "type": "media_player",
+    "manufacturer": "Noblex",
+    "supportedModels": [
+      "Noblex 32LC818H",
+      "Sansei TLS1032H",
+      "Admiral TLC3200A",
+      "Fisher FTL320H",
+      "Recco RLCD32H10"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1640.json",
+    "searchText": "noblex noblex 32lc818h sansei tls1032h admiral tlc3200a fisher ftl320h recco rlcd32h10 media_player"
+  },
+  {
+    "id": "1300",
+    "type": "media_player",
+    "manufacturer": "OKI",
+    "supportedModels": [
+      "V19B-LED4"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1300.json",
+    "searchText": "oki v19b-led4 media_player"
+  },
+  {
+    "id": "1500",
+    "type": "media_player",
+    "manufacturer": "Onkyo",
+    "supportedModels": [
+      "TX-SR508",
+      "TX-SR700"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1500.json",
+    "searchText": "onkyo tx-sr508 tx-sr700 media_player"
+  },
+  {
+    "id": "1360",
+    "type": "media_player",
+    "manufacturer": "OPTOMA",
+    "supportedModels": [
+      "HD27"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1360.json",
+    "searchText": "optoma hd27 media_player"
+  },
+  {
+    "id": "1200",
+    "type": "media_player",
+    "manufacturer": "Pace",
+    "supportedModels": [
+      "TDS850NNZ",
+      "TDC850NF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1200.json",
+    "searchText": "pace tds850nnz tdc850nf media_player"
+  },
+  {
+    "id": "1100",
+    "type": "fan",
+    "manufacturer": "Pacific",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1100.json",
+    "searchText": "pacific unknown fan"
+  },
+  {
+    "id": "1020",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-CE7HKEW",
+      "CS-CE9HKEW",
+      "CS-CE12HKEW",
+      "CS-PC24MKF",
+      "CS-C24PKF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1020.json",
+    "searchText": "panasonic cs-ce7hkew cs-ce9hkew cs-ce12hkew cs-pc24mkf cs-c24pkf climate"
+  },
+  {
+    "id": "1032",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-CU-HU18YKYF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1032.json",
+    "searchText": "panasonic cs-cu-hu18ykyf climate"
+  },
+  {
+    "id": "1030",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-E12JKDW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1030.json",
+    "searchText": "panasonic cs-e12jkdw climate"
+  },
+  {
+    "id": "1025",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-E18FKR"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1025.json",
+    "searchText": "panasonic cs-e18fkr climate"
+  },
+  {
+    "id": "1023",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-HE9JKE",
+      "CS-HE12JKE",
+      "CS-HE9LKE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1023.json",
+    "searchText": "panasonic cs-he9jke cs-he12jke cs-he9lke climate"
+  },
+  {
+    "id": "1029",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-LJ22~LJ90BA2(YA2)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1029.json",
+    "searchText": "panasonic cs-lj22~lj90ba2(ya2) climate"
+  },
+  {
+    "id": "1024",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-MRE7MKE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1024.json",
+    "searchText": "panasonic cs-mre7mke climate"
+  },
+  {
+    "id": "1026",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-PC12QKT"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1026.json",
+    "searchText": "panasonic cs-pc12qkt climate"
+  },
+  {
+    "id": "1021",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-RE9GKE",
+      "CS-RE12GKE",
+      "CS-RE9PKR",
+      "CSCU-Z25TKR"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1021.json",
+    "searchText": "panasonic cs-re9gke cs-re12gke cs-re9pkr cscu-z25tkr climate"
+  },
+  {
+    "id": "1027",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-SA9CKP"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1027.json",
+    "searchText": "panasonic cs-sa9ckp climate"
+  },
+  {
+    "id": "1028",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-U9RKR",
+      "CS-U12RKR"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1028.json",
+    "searchText": "panasonic cs-u9rkr cs-u12rkr climate"
+  },
+  {
+    "id": "1022",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "CS-Z25TK"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1022.json",
+    "searchText": "panasonic cs-z25tk climate"
+  },
+  {
+    "id": "1031",
+    "type": "climate",
+    "manufacturer": "Panasonic",
+    "supportedModels": [
+      "SRK25ZMP-S, SRK35ZMP-S, SRK45ZMP-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1031.json",
+    "searchText": "panasonic srk25zmp-s, srk35zmp-s, srk45zmp-s climate"
+  },
+  {
+    "id": "3300",
+    "type": "climate",
+    "manufacturer": "PARKAIR",
+    "supportedModels": [
+      "DI-A"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3300.json",
+    "searchText": "parkair di-a climate"
+  },
+  {
+    "id": "2820",
+    "type": "climate",
+    "manufacturer": "Pearl",
+    "supportedModels": [
+      "EXGC24FCBC1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2820.json",
+    "searchText": "pearl exgc24fcbc1 climate"
+  },
+  {
+    "id": "3000",
+    "type": "climate",
+    "manufacturer": "Philco",
+    "supportedModels": [
+      "Philco AC"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3000.json",
+    "searchText": "philco philco ac climate"
+  },
+  {
+    "id": "1000",
+    "type": "media_player",
+    "manufacturer": "Philips",
+    "supportedModels": [
+      "26PFL560H"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1000.json",
+    "searchText": "philips 26pfl560h media_player"
+  },
+  {
+    "id": "1001",
+    "type": "media_player",
+    "manufacturer": "Philips",
+    "supportedModels": [
+      "42PFL3007H/60",
+      "37PF9641D/10"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1001.json",
+    "searchText": "philips 42pfl3007h/60 37pf9641d/10 media_player"
+  },
+  {
+    "id": "1002",
+    "type": "media_player",
+    "manufacturer": "Philips",
+    "supportedModels": [
+      "47PFG4109/77"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1002.json",
+    "searchText": "philips 47pfg4109/77 media_player"
+  },
+  {
+    "id": "2041",
+    "type": "climate",
+    "manufacturer": "Pioneer",
+    "supportedModels": [
+      "WT018GLFI19HLD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2041.json",
+    "searchText": "pioneer wt018glfi19hld climate"
+  },
+  {
+    "id": "2040",
+    "type": "climate",
+    "manufacturer": "Pioneer",
+    "supportedModels": [
+      "WYS018GMFI17RL",
+      "WYS009GMFI17RL",
+      "CB018GMFILCFHD",
+      "CB012GMFILCFHD"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2040.json",
+    "searchText": "pioneer wys018gmfi17rl wys009gmfi17rl cb018gmfilcfhd cb012gmfilcfhd climate"
+  },
+  {
+    "id": "1400",
+    "type": "media_player",
+    "manufacturer": "Pioneer",
+    "supportedModels": [
+      "X-CM56"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1400.json",
+    "searchText": "pioneer x-cm56 media_player"
+  },
+  {
+    "id": "2260",
+    "type": "climate",
+    "manufacturer": "Profio",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2260.json",
+    "searchText": "profio unknown climate"
+  },
+  {
+    "id": "1820",
+    "type": "climate",
+    "manufacturer": "Riello",
+    "supportedModels": [
+      "WSI XN",
+      "RAR-3U4"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1820.json",
+    "searchText": "riello wsi xn rar-3u4 climate"
+  },
+  {
+    "id": "1140",
+    "type": "media_player",
+    "manufacturer": "RME",
+    "supportedModels": [
+      "ADI-2 DAC FS"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1140.json",
+    "searchText": "rme adi-2 dac fs media_player"
+  },
+  {
+    "id": "2480",
+    "type": "climate",
+    "manufacturer": "Rotenso",
+    "supportedModels": [
+      "Ukura",
+      "Maze (remote)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2480.json",
+    "searchText": "rotenso ukura maze (remote) climate"
+  },
+  {
+    "id": "1660",
+    "type": "climate",
+    "manufacturer": "ROYAL",
+    "supportedModels": [
+      "08HPN1T1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1660.json",
+    "searchText": "royal 08hpn1t1 climate"
+  },
+  {
+    "id": "1661",
+    "type": "climate",
+    "manufacturer": "ROYAL",
+    "supportedModels": [
+      "RC-G25HN"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1661.json",
+    "searchText": "royal rc-g25hn climate"
+  },
+  {
+    "id": "2940",
+    "type": "climate",
+    "manufacturer": "SAGA",
+    "supportedModels": [
+      "SAGA-A-22(CH)"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2940.json",
+    "searchText": "saga saga-a-22(ch) climate"
+  },
+  {
+    "id": "1406",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AQV12PWD"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/1406.json",
+    "searchText": "samsung aqv12pwd climate"
+  },
+  {
+    "id": "1401",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**HSF/JFS**"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1401.json",
+    "searchText": "samsung ar**hsf/jfs** climate"
+  },
+  {
+    "id": "1407",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**NXWS***"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1407.json",
+    "searchText": "samsung ar**nxws*** climate"
+  },
+  {
+    "id": "1402",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**TSHGAWK"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1402.json",
+    "searchText": "samsung ar**tshgawk climate"
+  },
+  {
+    "id": "1405",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**TSHQBURN"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1405.json",
+    "searchText": "samsung ar**tshqburn climate"
+  },
+  {
+    "id": "1404",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**TSHZ****"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1404.json",
+    "searchText": "samsung ar**tshz**** climate"
+  },
+  {
+    "id": "1403",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR**TXHZ***"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1403.json",
+    "searchText": "samsung ar**txhz*** climate"
+  },
+  {
+    "id": "1408",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "AR18HSFSAWKNEU Ver.01"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1408.json",
+    "searchText": "samsung ar18hsfsawkneu ver.01 climate"
+  },
+  {
+    "id": "1064",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "QE49Q7FAM"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1064.json",
+    "searchText": "samsung qe49q7fam media_player"
+  },
+  {
+    "id": "1065",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "QE65Q67RAUXRU"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1065.json",
+    "searchText": "samsung qe65q67rauxru media_player"
+  },
+  {
+    "id": "7060",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "UA32EH5000M"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/media_player/7060.json",
+    "searchText": "samsung ua32eh5000m media_player"
+  },
+  {
+    "id": "1061",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "UE40C6000",
+      "UE40D6500",
+      "UE32H5500",
+      "UE22D5000"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1061.json",
+    "searchText": "samsung ue40c6000 ue40d6500 ue32h5500 ue22d5000 media_player"
+  },
+  {
+    "id": "1062",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "UE40C6000",
+      "UE40D6500",
+      "UE32H5500",
+      "UE22D5000"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1062.json",
+    "searchText": "samsung ue40c6000 ue40d6500 ue32h5500 ue22d5000 media_player"
+  },
+  {
+    "id": "1060",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "UE40F6500",
+      "UE40H7000SL"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1060.json",
+    "searchText": "samsung ue40f6500 ue40h7000sl media_player"
+  },
+  {
+    "id": "1063",
+    "type": "media_player",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "UN55JU7500"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1063.json",
+    "searchText": "samsung un55ju7500 media_player"
+  },
+  {
+    "id": "1400",
+    "type": "climate",
+    "manufacturer": "Samsung",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1400.json",
+    "searchText": "samsung unknown climate"
+  },
+  {
+    "id": "1501",
+    "type": "climate",
+    "manufacturer": "Sanyo",
+    "supportedModels": [
+      "SAP-KR124EHEA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1501.json",
+    "searchText": "sanyo sap-kr124ehea climate"
+  },
+  {
+    "id": "1500",
+    "type": "climate",
+    "manufacturer": "Sanyo",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1500.json",
+    "searchText": "sanyo unknown climate"
+  },
+  {
+    "id": "1880",
+    "type": "climate",
+    "manufacturer": "Saunier Duval",
+    "supportedModels": [
+      "1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1880.json",
+    "searchText": "saunier duval 1 climate"
+  },
+  {
+    "id": "2080",
+    "type": "climate",
+    "manufacturer": "Sendo",
+    "supportedModels": [
+      "SND-18/IK"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2080.json",
+    "searchText": "sendo snd-18/ik climate"
+  },
+  {
+    "id": "2860",
+    "type": "climate",
+    "manufacturer": "Senville",
+    "supportedModels": [
+      "SENA/12HF/IZ"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2860.json",
+    "searchText": "senville sena/12hf/iz climate"
+  },
+  {
+    "id": "1300",
+    "type": "climate",
+    "manufacturer": "Sharp",
+    "supportedModels": [
+      "AY-B22DM"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1300.json",
+    "searchText": "sharp ay-b22dm climate"
+  },
+  {
+    "id": "1301",
+    "type": "climate",
+    "manufacturer": "Sharp",
+    "supportedModels": [
+      "AY-X13BE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1301.json",
+    "searchText": "sharp ay-x13be climate"
+  },
+  {
+    "id": "1620",
+    "type": "media_player",
+    "manufacturer": "Sharp",
+    "supportedModels": [
+      "LC-32LE700E",
+      "LC-32LE700S",
+      "LC-40LE700E",
+      "LC-40LE700S",
+      "LC-46LE700E",
+      "LC-46LE700S",
+      "LC-52LE700E",
+      "LC-52LE700S",
+      "LC-32LX700E",
+      "LC-40LX700E",
+      "LC-46LX700E",
+      "LC-32LU700E",
+      "LC-32LU700S",
+      "LC-40LU700E",
+      "LC-40LU700S",
+      "LC-46LU700E",
+      "LC-46LU700S",
+      "LC-32LE705E",
+      "LC-32LE705S",
+      "LC-40LE705E",
+      "LC-40LE705S",
+      "LC-46LE705E",
+      "LC-46LE705S",
+      "LC-52LE705E",
+      "LC-52LE705S",
+      "LC-32LX705E",
+      "LC-40LX705E",
+      "LC-46LX705E",
+      "LC-32LU705E",
+      "LC-32LU705S",
+      "LC-40LU705E",
+      "LC-40LU705S",
+      "LC-46LU705E",
+      "LC-46LU705S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1620.json",
+    "searchText": "sharp lc-32le700e lc-32le700s lc-40le700e lc-40le700s lc-46le700e lc-46le700s lc-52le700e lc-52le700s lc-32lx700e lc-40lx700e lc-46lx700e lc-32lu700e lc-32lu700s lc-40lu700e lc-40lu700s lc-46lu700e lc-46lu700s lc-32le705e lc-32le705s lc-40le705e lc-40le705s lc-46le705e lc-46le705s lc-52le705e lc-52le705s lc-32lx705e lc-40lx705e lc-46lx705e lc-32lu705e lc-32lu705s lc-40lu705e lc-40lu705s lc-46lu705e lc-46lu705s media_player"
+  },
+  {
+    "id": "7300",
+    "type": "climate",
+    "manufacturer": "SHARP",
+    "supportedModels": [
+      "AH-AP9GMY"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7300.json",
+    "searchText": "sharp ah-ap9gmy climate"
+  },
+  {
+    "id": "8800",
+    "type": "climate",
+    "manufacturer": "Sigma",
+    "supportedModels": [
+      "SGS32H13NE"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/8800.json",
+    "searchText": "sigma sgs32h13ne climate"
+  },
+  {
+    "id": "1220",
+    "type": "media_player",
+    "manufacturer": "Silver",
+    "supportedModels": [
+      "MEO"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1220.json",
+    "searchText": "silver meo media_player"
+  },
+  {
+    "id": "1860",
+    "type": "climate",
+    "manufacturer": "Simbio",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1860.json",
+    "searchText": "simbio unknown climate"
+  },
+  {
+    "id": "1420",
+    "type": "climate",
+    "manufacturer": "Sintech",
+    "supportedModels": [
+      "KFR-34GW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1420.json",
+    "searchText": "sintech kfr-34gw climate"
+  },
+  {
+    "id": "1320",
+    "type": "media_player",
+    "manufacturer": "Sky",
+    "supportedModels": [
+      "SkyQ black",
+      "SkyQ mini"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1320.json",
+    "searchText": "sky skyq black skyq mini media_player"
+  },
+  {
+    "id": "1140",
+    "type": "fan",
+    "manufacturer": "SMC",
+    "supportedModels": [
+      "SP486",
+      "SP483"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1140.json",
+    "searchText": "smc sp486 sp483 fan"
+  },
+  {
+    "id": "1020",
+    "type": "media_player",
+    "manufacturer": "Sony",
+    "supportedModels": [
+      "KDL-46HX800"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1020.json",
+    "searchText": "sony kdl-46hx800 media_player"
+  },
+  {
+    "id": "7020",
+    "type": "media_player",
+    "manufacturer": "Sony",
+    "supportedModels": [
+      "KDL46EX620",
+      "RM-YD063"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/media_player/7020.json",
+    "searchText": "sony kdl46ex620 rm-yd063 media_player"
+  },
+  {
+    "id": "1360",
+    "type": "climate",
+    "manufacturer": "Springer",
+    "supportedModels": [
+      "Split Hi Wall Maxiflex"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1360.json",
+    "searchText": "springer split hi wall maxiflex climate"
+  },
+  {
+    "id": "1220",
+    "type": "climate",
+    "manufacturer": "Sungold",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1220.json",
+    "searchText": "sungold unknown climate"
+  },
+  {
+    "id": "1060",
+    "type": "fan",
+    "manufacturer": "Super Fan",
+    "supportedModels": [
+      "Super Fan A1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/fan/1060.json",
+    "searchText": "super fan super fan a1 fan"
+  },
+  {
+    "id": "1343",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "Alpha Series"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1343.json",
+    "searchText": "tadiran alpha series climate"
+  },
+  {
+    "id": "1344",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "Remote Control YB1FA",
+      "Tadiran Inverter"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1344.json",
+    "searchText": "tadiran remote control yb1fa tadiran inverter climate"
+  },
+  {
+    "id": "1345",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "TAC 297"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1345.json",
+    "searchText": "tadiran tac 297 climate"
+  },
+  {
+    "id": "1346",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "TAC 297H V3.2"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1346.json",
+    "searchText": "tadiran tac 297h v3.2 climate"
+  },
+  {
+    "id": "1341",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "TAC490"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1341.json",
+    "searchText": "tadiran tac490 climate"
+  },
+  {
+    "id": "1342",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "Tadiran-10i/15i/inv220a"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1342.json",
+    "searchText": "tadiran tadiran-10i/15i/inv220a climate"
+  },
+  {
+    "id": "1340",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1340.json",
+    "searchText": "tadiran unknown climate"
+  },
+  {
+    "id": "1560",
+    "type": "climate",
+    "manufacturer": "Tadiran",
+    "supportedModels": [
+      "WIND 3P"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1560.json",
+    "searchText": "tadiran wind 3p climate"
+  },
+  {
+    "id": "1060",
+    "type": "light",
+    "manufacturer": "Takizumi",
+    "supportedModels": [
+      "TLR-002"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/light/1060.json",
+    "searchText": "takizumi tlr-002 light"
+  },
+  {
+    "id": "1181",
+    "type": "media_player",
+    "manufacturer": "TCL",
+    "supportedModels": [
+      "43S6500FS",
+      "32A325"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1181.json",
+    "searchText": "tcl 43s6500fs 32a325 media_player"
+  },
+  {
+    "id": "1180",
+    "type": "media_player",
+    "manufacturer": "TCL",
+    "supportedModels": [
+      "55EP640"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1180.json",
+    "searchText": "tcl 55ep640 media_player"
+  },
+  {
+    "id": "1900",
+    "type": "climate",
+    "manufacturer": "TCL",
+    "supportedModels": [
+      "TAC-12CHSD/XA21I"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1900.json",
+    "searchText": "tcl tac-12chsd/xa21i climate"
+  },
+  {
+    "id": "1901",
+    "type": "climate",
+    "manufacturer": "TCL",
+    "supportedModels": [
+      "TAC-12CHSD/XA71IN"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1901.json",
+    "searchText": "tcl tac-12chsd/xa71in climate"
+  },
+  {
+    "id": "2120",
+    "type": "climate",
+    "manufacturer": "Technibel",
+    "supportedModels": [
+      "MPAF13A0R5IAA"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2120.json",
+    "searchText": "technibel mpaf13a0r5iaa climate"
+  },
+  {
+    "id": "4800",
+    "type": "climate",
+    "manufacturer": "TechnoLux",
+    "supportedModels": [
+      "KFR-25GW/F"
+    ],
+    "supportedController": "Xiaomi",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/4800.json",
+    "searchText": "technolux kfr-25gw/f climate"
+  },
+  {
+    "id": "1260",
+    "type": "media_player",
+    "manufacturer": "Thomson",
+    "supportedModels": [
+      "40FA3203"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1260.json",
+    "searchText": "thomson 40fa3203 media_player"
+  },
+  {
+    "id": "1623",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Inverter VRF"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1623.json",
+    "searchText": "tornado inverter vrf climate"
+  },
+  {
+    "id": "1625",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Inverter VRF BOX"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1625.json",
+    "searchText": "tornado inverter vrf box climate"
+  },
+  {
+    "id": "1627",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "MASTER-12A PLUS"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1627.json",
+    "searchText": "tornado master-12a plus climate"
+  },
+  {
+    "id": "1622",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Master-22 X"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1622.json",
+    "searchText": "tornado master-22 x climate"
+  },
+  {
+    "id": "1626",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "MASTER-35 X 1PH"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1626.json",
+    "searchText": "tornado master-35 x 1ph climate"
+  },
+  {
+    "id": "1620",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Super - Inverter A, i",
+      "Inverter",
+      "Inverter A",
+      "Super Design",
+      "Super Plasma",
+      "Gold i",
+      "Multi ON-OFF",
+      "Multi Inverter",
+      "Super Gold i",
+      "Plasma Gold"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1620.json",
+    "searchText": "tornado super - inverter a, i inverter inverter a super design super plasma gold i multi on-off multi inverter super gold i plasma gold climate"
+  },
+  {
+    "id": "1621",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Super Legend 40"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1621.json",
+    "searchText": "tornado super legend 40 climate"
+  },
+  {
+    "id": "1624",
+    "type": "climate",
+    "manufacturer": "Tornado",
+    "supportedModels": [
+      "Super Legend 40"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1624.json",
+    "searchText": "tornado super legend 40 climate"
+  },
+  {
+    "id": "1100",
+    "type": "media_player",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "42C3530D"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1100.json",
+    "searchText": "toshiba 42c3530d media_player"
+  },
+  {
+    "id": "1040",
+    "type": "light",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "FRC-199T"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/light/1040.json",
+    "searchText": "toshiba frc-199t light"
+  },
+  {
+    "id": "1262",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAC-PD0812CRRU",
+      "RAC-PD1013CWRU",
+      "RAC-PD1213CWRU",
+      "RAC-PD1414CWRU"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1262.json",
+    "searchText": "toshiba rac-pd0812crru rac-pd1013cwru rac-pd1213cwru rac-pd1414cwru climate"
+  },
+  {
+    "id": "1260",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAS-13NKV-E / RAS-13NAV-E",
+      "RAS-13NKV-A / RAS-13NAV-A",
+      "RAS-16NKV-E / RAS-16NAV-E",
+      "RAS-16NKV-A / RAS-16NAV-A",
+      "RAS-M10SKV-E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1260.json",
+    "searchText": "toshiba ras-13nkv-e / ras-13nav-e ras-13nkv-a / ras-13nav-a ras-16nkv-e / ras-16nav-e ras-16nkv-a / ras-16nav-a ras-m10skv-e climate"
+  },
+  {
+    "id": "1264",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAS-13SKVR-A"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1264.json",
+    "searchText": "toshiba ras-13skvr-a climate"
+  },
+  {
+    "id": "7260",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAS-18NKV-E / RAS-18NAV-E"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/7260.json",
+    "searchText": "toshiba ras-18nkv-e / ras-18nav-e climate"
+  },
+  {
+    "id": "1265",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAS-25SKVP2-ND",
+      "RAS-35SKVP2-ND"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1265.json",
+    "searchText": "toshiba ras-25skvp2-nd ras-35skvp2-nd climate"
+  },
+  {
+    "id": "1263",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "RAS-B07J2KVSG-E",
+      "RAS-B10J2KVSG-E",
+      "RAS-B13J2KVSG-E",
+      "RAS-B10SKVP-E"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1263.json",
+    "searchText": "toshiba ras-b07j2kvsg-e ras-b10j2kvsg-e ras-b13j2kvsg-e ras-b10skvp-e climate"
+  },
+  {
+    "id": "1261",
+    "type": "climate",
+    "manufacturer": "Toshiba",
+    "supportedModels": [
+      "WH-TA05NE",
+      "WH-TA11EJ"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1261.json",
+    "searchText": "toshiba wh-ta05ne wh-ta11ej climate"
+  },
+  {
+    "id": "1200",
+    "type": "climate",
+    "manufacturer": "Tosot",
+    "supportedModels": [
+      "T09H-SJ"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1200.json",
+    "searchText": "tosot t09h-sj climate"
+  },
+  {
+    "id": "1000",
+    "type": "climate",
+    "manufacturer": "Toyotomi",
+    "supportedModels": [
+      "AKIRA GAN/GAG-A128 VL"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1000.json",
+    "searchText": "toyotomi akira gan/gag-a128 vl climate"
+  },
+  {
+    "id": "1001",
+    "type": "climate",
+    "manufacturer": "Toyotomi",
+    "supportedModels": [
+      "AKIRA GAN/GAG-A135FW-M"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1001.json",
+    "searchText": "toyotomi akira gan/gag-a135fw-m climate"
+  },
+  {
+    "id": "2760",
+    "type": "climate",
+    "manufacturer": "Tristar",
+    "supportedModels": [
+      "AC-5400"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2760.json",
+    "searchText": "tristar ac-5400 climate"
+  },
+  {
+    "id": "1782",
+    "type": "climate",
+    "manufacturer": "Trotec",
+    "supportedModels": [
+      "RG57H3(B)/BGCEF-M",
+      "PAC 2100 X",
+      "PAC 2600 X"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1782.json",
+    "searchText": "trotec rg57h3(b)/bgcef-m pac 2100 x pac 2600 x climate"
+  },
+  {
+    "id": "1781",
+    "type": "climate",
+    "manufacturer": "Trotec",
+    "supportedModels": [
+      "YX1F"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1781.json",
+    "searchText": "trotec yx1f climate"
+  },
+  {
+    "id": "1780",
+    "type": "climate",
+    "manufacturer": "Trotec",
+    "supportedModels": [
+      "YX1F6"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1780.json",
+    "searchText": "trotec yx1f6 climate"
+  },
+  {
+    "id": "1240",
+    "type": "media_player",
+    "manufacturer": "TurboX",
+    "supportedModels": [
+      "TXV-2420"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1240.json",
+    "searchText": "turbox txv-2420 media_player"
+  },
+  {
+    "id": "2140",
+    "type": "climate",
+    "manufacturer": "Unionaire",
+    "supportedModels": [
+      "Artify"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2140.json",
+    "searchText": "unionaire artify climate"
+  },
+  {
+    "id": "2440",
+    "type": "climate",
+    "manufacturer": "Vaillant",
+    "supportedModels": [
+      "ClimaVair VAI 8-025"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2440.json",
+    "searchText": "vaillant climavair vai 8-025 climate"
+  },
+  {
+    "id": "3040",
+    "type": "climate",
+    "manufacturer": "Viessmann",
+    "supportedModels": [
+      "Vitoclima 300-S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3040.json",
+    "searchText": "viessmann vitoclima 300-s climate"
+  },
+  {
+    "id": "8720",
+    "type": "climate",
+    "manufacturer": "Viomi",
+    "supportedModels": [
+      "KF-26GW/Y4PF5-A5"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/climate/8720.json",
+    "searchText": "viomi kf-26gw/y4pf5-a5 climate"
+  },
+  {
+    "id": "3080",
+    "type": "climate",
+    "manufacturer": "Voltas",
+    "supportedModels": [
+      "VOLTAS INV/AC 1.5T 183V MZJ3 3S"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3080.json",
+    "searchText": "voltas voltas inv/ac 1.5t 183v mzj3 3s climate"
+  },
+  {
+    "id": "2340",
+    "type": "climate",
+    "manufacturer": "Vortex",
+    "supportedModels": [
+      "VOR-12C3/407"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2340.json",
+    "searchText": "vortex vor-12c3/407 climate"
+  },
+  {
+    "id": "2420",
+    "type": "climate",
+    "manufacturer": "VS",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2420.json",
+    "searchText": "vs unknown climate"
+  },
+  {
+    "id": "1540",
+    "type": "climate",
+    "manufacturer": "Whirlpool",
+    "supportedModels": [
+      "SPIS412L"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/1540.json",
+    "searchText": "whirlpool spis412l climate"
+  },
+  {
+    "id": "2320",
+    "type": "climate",
+    "manufacturer": "Whynter",
+    "supportedModels": [
+      "ARC-08WB",
+      "ARC-10WB",
+      "ARC-126MD",
+      "ARC-126MDB",
+      "ARC-148MS"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2320.json",
+    "searchText": "whynter arc-08wb arc-10wb arc-126md arc-126mdb arc-148ms climate"
+  },
+  {
+    "id": "2321",
+    "type": "climate",
+    "manufacturer": "Whynter",
+    "supportedModels": [
+      "ARC-12S",
+      "ARC-12SD",
+      "ARC-122DS",
+      "ARC-14S",
+      "ARC-141BG",
+      "ARC-143MX",
+      "ARC-101CW"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2321.json",
+    "searchText": "whynter arc-12s arc-12sd arc-122ds arc-14s arc-141bg arc-143mx arc-101cw climate"
+  },
+  {
+    "id": "3340",
+    "type": "climate",
+    "manufacturer": "Wide",
+    "supportedModels": [
+      "WDS12ECO"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3340.json",
+    "searchText": "wide wds12eco climate"
+  },
+  {
+    "id": "2780",
+    "type": "climate",
+    "manufacturer": "Xiaomi",
+    "supportedModels": [
+      "KFR-35G/F3C1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2780.json",
+    "searchText": "xiaomi kfr-35g/f3c1 climate"
+  },
+  {
+    "id": "1380",
+    "type": "media_player",
+    "manufacturer": "Xiaomi",
+    "supportedModels": [
+      "MiBox",
+      "MItv"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1380.json",
+    "searchText": "xiaomi mibox mitv media_player"
+  },
+  {
+    "id": "1123",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "AS201"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1123.json",
+    "searchText": "yamaha as201 media_player"
+  },
+  {
+    "id": "9999",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "AX-380"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Pronto",
+    "path": "codes/media_player/9999.json",
+    "searchText": "yamaha ax-380 media_player"
+  },
+  {
+    "id": "1121",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "HTR-3065",
+      "RX-V373",
+      "RX-V373BL",
+      "RX-V375",
+      "RX-V375BL",
+      "YHT-497",
+      "YHT-497BL"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1121.json",
+    "searchText": "yamaha htr-3065 rx-v373 rx-v373bl rx-v375 rx-v375bl yht-497 yht-497bl media_player"
+  },
+  {
+    "id": "1120",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "Unknown"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1120.json",
+    "searchText": "yamaha unknown media_player"
+  },
+  {
+    "id": "1122",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "VR50590"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1122.json",
+    "searchText": "yamaha vr50590 media_player"
+  },
+  {
+    "id": "1124",
+    "type": "media_player",
+    "manufacturer": "Yamaha",
+    "supportedModels": [
+      "YAS-109"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/media_player/1124.json",
+    "searchText": "yamaha yas-109 media_player"
+  },
+  {
+    "id": "2400",
+    "type": "climate",
+    "manufacturer": "Yamatsu",
+    "supportedModels": [
+      "YAM-12KDA",
+      "AUS-07C53R013L24"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2400.json",
+    "searchText": "yamatsu yam-12kda aus-07c53r013l24 climate"
+  },
+  {
+    "id": "2301",
+    "type": "climate",
+    "manufacturer": "Zanussi",
+    "supportedModels": [
+      "ZACS/I-07 HPF/A17/N1"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2301.json",
+    "searchText": "zanussi zacs/i-07 hpf/a17/n1 climate"
+  },
+  {
+    "id": "2300",
+    "type": "climate",
+    "manufacturer": "Zanussi",
+    "supportedModels": [
+      "ZH/TT-02"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/2300.json",
+    "searchText": "zanussi zh/tt-02 climate"
+  },
+  {
+    "id": "3380",
+    "type": "climate",
+    "manufacturer": "Zephir",
+    "supportedModels": [
+      "DualSplit"
+    ],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "path": "codes/climate/3380.json",
+    "searchText": "zephir dualsplit climate"
+  },
+  {
+    "id": "7460",
+    "type": "media_player",
+    "manufacturer": "ZTE",
+    "supportedModels": [
+      "B860H"
+    ],
+    "supportedController": "ESPHome",
+    "commandsEncoding": "Raw",
+    "path": "codes/media_player/7460.json",
+    "searchText": "zte b860h media_player"
+  }
+]

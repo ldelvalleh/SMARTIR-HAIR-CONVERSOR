@@ -1,0 +1,10 @@
+{
+  "name": "ha-ir-codes-browser",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static browser for SmartIR community IR codes",
+  "scripts": {
+    "build:index": "node scripts/build-index.mjs"
+  },
+  "type": "module"
+}
