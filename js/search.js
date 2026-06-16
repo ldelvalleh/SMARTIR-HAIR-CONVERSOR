@@ -9,6 +9,8 @@ import {
 let catalog = [];
 let compatibilityEntries = [];
 
+const UNKNOWN_MODELS = new Set(["", "UNKNOWN", "UNKNOW", "N/A", "NA", "NONE", "NULL"]);
+
 function escapeHtml(str) {
   return String(str)
     .replace(/&/g, "&amp;")
@@ -52,6 +54,27 @@ function normalizeModelText(value) {
     .replace(/[^A-Z0-9]/g, "");
 }
 
+function isKnownModel(model) {
+  return !UNKNOWN_MODELS.has(
+    String(model ?? "")
+      .trim()
+      .toUpperCase()
+      .normalize("NFD")
+      .replace(/\p{M}/gu, ""),
+  );
+}
+
+function slug(value) {
+  return String(value ?? "")
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{M}/gu, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 80);
+}
+
 function matchesEntry(entry, query, typeFilter) {
   if (typeFilter && entry.type !== typeFilter) return false;
   if (!query) return true;
@@ -62,6 +85,47 @@ function matchesEntry(entry, query, typeFilter) {
 
 function compatibleModels(entry) {
   return Array.isArray(entry.compatibleModels) ? entry.compatibleModels : [];
+}
+
+function knownSupportedModels(entry) {
+  return Array.isArray(entry.supportedModels)
+    ? entry.supportedModels.filter(isKnownModel)
+    : [];
+}
+
+function generatedCompatibilityFromCatalog(entry) {
+  const models = knownSupportedModels(entry);
+  if (models.length <= 1 || !entry.type || !entry.manufacturer || !entry.path) return null;
+
+  return {
+    id: `runtime-catalog-${slug(entry.type)}-${slug(entry.manufacturer)}-${slug(entry.id)}-${slug(models[0])}`,
+    generatedFrom: "data/index.json",
+    type: entry.type,
+    manufacturer: entry.manufacturer,
+    smartirPath: entry.path,
+    smartirId: entry.id,
+    smartirSupportedModels: models,
+    compatibleModels: models.map((model) => ({
+      model,
+      confidence: "confirmed_catalog",
+      scope: "listed_commands",
+    })),
+    notes: t("compat.generatedNote"),
+    sources: [entry.path],
+  };
+}
+
+function mergeCompatibilityEntries(manualEntries, catalogEntries) {
+  const manual = Array.isArray(manualEntries) ? manualEntries : [];
+  const manualPaths = new Set(manual.map((entry) => entry.smartirPath).filter(Boolean));
+  const manualIds = new Set(manual.map((entry) => entry.id).filter(Boolean));
+
+  const generated = catalogEntries
+    .map(generatedCompatibilityFromCatalog)
+    .filter(Boolean)
+    .filter((entry) => !manualPaths.has(entry.smartirPath) && !manualIds.has(entry.id));
+
+  return [...manual, ...generated];
 }
 
 function compatibilitySearchText(entry) {
@@ -264,14 +328,17 @@ async function loadCatalog() {
     if (!catalogRes.ok) throw new Error("index");
     catalog = await catalogRes.json();
 
+    let manualCompatibilityEntries = [];
     try {
       const compatibilityRes = await fetch("data/compatibility-index.json");
-      compatibilityEntries = compatibilityRes.ok
+      manualCompatibilityEntries = compatibilityRes.ok
         ? (await compatibilityRes.json()).entries ?? []
         : [];
     } catch {
-      compatibilityEntries = [];
+      manualCompatibilityEntries = [];
     }
+
+    compatibilityEntries = mergeCompatibilityEntries(manualCompatibilityEntries, catalog);
 
     status.textContent = "";
     refresh();
