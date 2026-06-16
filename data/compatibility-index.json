@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-16",
+  "scope": "Initial compatibility research for SmartIR media_player entries. This file is intended to help users try related models when their exact model is not listed in SmartIR.",
+  "confidenceLevels": {
+    "confirmed_catalog": "Models appear together in the same SmartIR supportedModels list, so SmartIR already treats them as sharing the same command set for that JSON file.",
+    "probable_family": "Models are in the same manufacturer/family/protocol group, but direct compatibility was not independently proven for every command.",
+    "try_only": "Useful candidate to test, but not safe to present as confirmed compatibility. Show a warning in the UI."
+  },
+  "compatibilityScopes": {
+    "listed_commands": "Compatibility applies only to the commands present in the SmartIR JSON file.",
+    "power_only": "Only on/off or power commands are present or considered likely.",
+    "remote_model": "The compatible item is a remote-control model rather than a TV/device model."
+  },
+  "entries": [
+    {
+      "id": "samsung-1065-q67r-s95b-power-test",
+      "type": "media_player",
+      "manufacturer": "Samsung",
+      "smartirPath": "codes/media_player/1065.json",
+      "smartirId": "1065",
+      "smartirSupportedModels": ["QE65Q67RAUXRU"],
+      "compatibleModels": [
+        {
+          "model": "QE55S95BATXXC",
+          "normalizedModel": "QE55S95BAT",
+          "confidence": "try_only",
+          "scope": "power_only",
+          "reason": "The SmartIR file for QE65Q67RAUXRU only contains on/off commands. Samsung documents QE55S95BAT as a 2022 S95B TV and Samsung Smart Remotes can emit IR signals, so this is a reasonable candidate to test for power control only, not confirmed full compatibility."
+        }
+      ],
+      "notes": "Do not present this as confirmed compatibility. Use wording like: 'Puedes probar estos códigos para encendido/apagado'.",
+      "sources": [
+        "https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1065.json",
+        "https://www.samsung.com/uk/support/model/QE55S95BATXXU/",
+        "https://www.samsung.com/ru/support/model/QE65Q67RAUXRU/",
+        "https://www.samsung.com/uk/support/tv-audio-video/how-to-troubleshoot-your-smart-remote-when-it-is-not-working/"
+      ]
+    },
+    {
+      "id": "samsung-1061-c-d-h-series",
+      "type": "media_player",
+      "manufacturer": "Samsung",
+      "smartirPath": "codes/media_player/1061.json",
+      "smartirId": "1061",
+      "smartirSupportedModels": ["UE40C6000", "UE40D6500", "UE32H5500", "UE22D5000"],
+      "compatibleModels": [
+        { "model": "UE40C6000", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "UE40D6500", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "UE32H5500", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "UE22D5000", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "notes": "The same supportedModels group also appears in SmartIR media_player/1062.json, so both 1061 and 1062 should be exposed as alternatives to test.",
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1061.json"]
+    },
+    {
+      "id": "lg-1042-webos-tv-family",
+      "type": "media_player",
+      "manufacturer": "LG",
+      "smartirPath": "codes/media_player/1042.json",
+      "smartirId": "1042",
+      "smartirSupportedModels": ["43UM7510PSB", "OLED55B8SSC"],
+      "compatibleModels": [
+        { "model": "43UM7510PSB", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "OLED55B8SSC", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1042.json"]
+    },
+    {
+      "id": "noblex-1640-rebranded-32-inch-tvs",
+      "type": "media_player",
+      "manufacturer": "Noblex",
+      "smartirPath": "codes/media_player/1640.json",
+      "smartirId": "1640",
+      "smartirSupportedModels": ["Noblex 32LC818H", "Sansei TLS1032H", "Admiral TLC3200A", "Fisher FTL320H", "Recco RLCD32H10"],
+      "compatibleModels": [
+        { "model": "Noblex 32LC818H", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "Sansei TLS1032H", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "Admiral TLC3200A", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "Fisher FTL320H", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "Recco RLCD32H10", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "notes": "This is a strong internal SmartIR relationship across several rebranded TV models.",
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1640.json"]
+    },
+    {
+      "id": "onkyo-1500-av-receivers",
+      "type": "media_player",
+      "manufacturer": "Onkyo",
+      "smartirPath": "codes/media_player/1500.json",
+      "smartirId": "1500",
+      "smartirSupportedModels": ["TX-SR508", "TX-SR700"],
+      "compatibleModels": [
+        { "model": "TX-SR508", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "TX-SR700", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1500.json"]
+    },
+    {
+      "id": "pace-1200-set-top-boxes",
+      "type": "media_player",
+      "manufacturer": "Pace",
+      "smartirPath": "codes/media_player/1200.json",
+      "smartirId": "1200",
+      "smartirSupportedModels": ["TDS850NNZ", "TDC850NF"],
+      "compatibleModels": [
+        { "model": "TDS850NNZ", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "TDC850NF", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1200.json"]
+    },
+    {
+      "id": "philips-1001-tv-family",
+      "type": "media_player",
+      "manufacturer": "Philips",
+      "smartirPath": "codes/media_player/1001.json",
+      "smartirId": "1001",
+      "smartirSupportedModels": ["42PFL3007H/60", "37PF9641D/10"],
+      "compatibleModels": [
+        { "model": "42PFL3007H/60", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "37PF9641D/10", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1001.json"]
+    },
+    {
+      "id": "sharp-1620-lc-700-705-family",
+      "type": "media_player",
+      "manufacturer": "Sharp",
+      "smartirPath": "codes/media_player/1620.json",
+      "smartirId": "1620",
+      "smartirSupportedModels": [
+        "LC-32LE700E", "LC-32LE700S", "LC-40LE700E", "LC-40LE700S", "LC-46LE700E", "LC-46LE700S", "LC-52LE700E", "LC-52LE700S",
+        "LC-32LX700E", "LC-40LX700E", "LC-46LX700E",
+        "LC-32LU700E", "LC-32LU700S", "LC-40LU700E", "LC-40LU700S", "LC-46LU700E", "LC-46LU700S",
+        "LC-32LE705E", "LC-32LE705S", "LC-40LE705E", "LC-40LE705S", "LC-46LE705E", "LC-46LE705S", "LC-52LE705E", "LC-52LE705S",
+        "LC-32LX705E", "LC-40LX705E", "LC-46LX705E",
+        "LC-32LU705E", "LC-32LU705S", "LC-40LU705E", "LC-40LU705S", "LC-46LU705E", "LC-46LU705S"
+      ],
+      "compatiblePatterns": ["LC-xxLE700E/S", "LC-xxLX700E", "LC-xxLU700E/S", "LC-xxLE705E/S", "LC-xxLX705E", "LC-xxLU705E/S"],
+      "compatibleModels": [],
+      "confidence": "confirmed_catalog",
+      "scope": "listed_commands",
+      "notes": "Large explicit Sharp family already grouped in SmartIR. The UI can display the pattern first and expand the full list on demand.",
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1620.json"]
+    },
+    {
+      "id": "sky-1320-skyq",
+      "type": "media_player",
+      "manufacturer": "Sky",
+      "smartirPath": "codes/media_player/1320.json",
+      "smartirId": "1320",
+      "smartirSupportedModels": ["SkyQ black", "SkyQ mini"],
+      "compatibleModels": [
+        { "model": "SkyQ black", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "SkyQ mini", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1320.json"]
+    },
+    {
+      "id": "sony-7020-kdl46ex620-rm-yd063",
+      "type": "media_player",
+      "manufacturer": "Sony",
+      "smartirPath": "codes/media_player/7020.json",
+      "smartirId": "7020",
+      "smartirSupportedModels": ["KDL46EX620", "RM-YD063"],
+      "compatibleModels": [
+        { "model": "KDL46EX620", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "RM-YD063", "confidence": "confirmed_catalog", "scope": "remote_model" }
+      ],
+      "notes": "RM-YD063 is a remote-control model, not a TV model. Treat it specially in search results.",
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/7020.json"]
+    },
+    {
+      "id": "tcl-1181-tv-family",
+      "type": "media_player",
+      "manufacturer": "TCL",
+      "smartirPath": "codes/media_player/1181.json",
+      "smartirId": "1181",
+      "smartirSupportedModels": ["43S6500FS", "32A325"],
+      "compatibleModels": [
+        { "model": "43S6500FS", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "32A325", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1181.json"]
+    },
+    {
+      "id": "xiaomi-1380-mi-box-tv",
+      "type": "media_player",
+      "manufacturer": "Xiaomi",
+      "smartirPath": "codes/media_player/1380.json",
+      "smartirId": "1380",
+      "smartirSupportedModels": ["MiBox", "MItv"],
+      "compatibleModels": [
+        { "model": "MiBox", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "MItv", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1380.json"]
+    },
+    {
+      "id": "yamaha-1121-av-receiver-family",
+      "type": "media_player",
+      "manufacturer": "Yamaha",
+      "smartirPath": "codes/media_player/1121.json",
+      "smartirId": "1121",
+      "smartirSupportedModels": ["HTR-3065", "RX-V373", "RX-V373BL", "RX-V375", "RX-V375BL", "YHT-497", "YHT-497BL"],
+      "compatibleModels": [
+        { "model": "HTR-3065", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "RX-V373", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "RX-V373BL", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "RX-V375", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "RX-V375BL", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "YHT-497", "confidence": "confirmed_catalog", "scope": "listed_commands" },
+        { "model": "YHT-497BL", "confidence": "confirmed_catalog", "scope": "listed_commands" }
+      ],
+      "sources": ["https://github.com/smartHomeHub/SmartIR/blob/master/codes/media_player/1121.json"]
+    }
+  ]
+}
