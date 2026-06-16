@@ -22,6 +22,8 @@
   "table.view": "View",
   "compat.title": "Related models to try",
   "compat.intro": "These are not exact matches from the main catalog. They are documented relationships or useful test candidates.",
+  "compat.noticeTitle": "Compatibility notice",
+  "compat.noticeBody": "Related models are based on SmartIR catalog groupings and researched relationships. Some codes may work only partially. Test power and basic functions first before assuming full compatibility.",
   "compat.sourceModel": "SmartIR code:",
   "compat.candidates": "May work for:",
   "compat.tryCodes": "Try codes",
