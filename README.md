@@ -10,6 +10,12 @@ Browse IR remote codes from the [SmartIR](https://github.com/smartHomeHub/SmartI
 
 > Data from [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR). Not affiliated with the SmartIR project.
 
+## Compatibility notice
+
+Related models are based on SmartIR catalog groupings and manually researched relationships. Some IR codes may work only partially: power may work while volume, source, mode, fan speed, temperature or other commands may not.
+
+Always test power and basic functions first before assuming full compatibility. Entries marked as `try_only` or `power_only` must not be treated as confirmed full remote compatibility.
+
 ## Deploy
 
 Copy the project folder to any web server (Apache, nginx, IIS, GitHub Pages, etc.). No Node.js or background process needed at runtime.
