@@ -116,6 +116,25 @@ a:hover {
   font-size: 1.125rem;
 }
 
+.compatibility-notice {
+  margin: 0 0 0.85rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid #fde68a;
+  border-radius: 8px;
+  background: #fffbeb;
+  color: #78350f;
+  font-size: 0.875rem;
+}
+
+.compatibility-notice strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.compatibility-notice p {
+  margin: 0;
+}
+
 .filters {
   display: flex;
   flex-wrap: wrap;
